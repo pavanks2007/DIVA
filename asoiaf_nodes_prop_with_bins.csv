@@ -1,797 +1,797 @@
 id,name,degree,peel,diversity,betweenness,pagerank,bins_degree,bins_peel,bins_pagerank,bins_diversity,bins_betweenness
-0,Addam Marbrand,12,10,1.198849313,0.000469682,0.000813212,degree0,peel1,pagerank-2,diversity-1,betweenness0
-1,Aegon Frey (son of Stevron),4,4,1.039720771,0.0,0.000410273,degree-1,peel1,pagerank-2,diversity0,betweenness-1
-2,Aegon I Targaryen,9,5,1.464816385,0.006891002,0.001100074,degree0,peel-2,pagerank-1,diversity-1,betweenness1
-3,Aegon Targaryen (son of Rhaegar),15,7,1.801892401,0.006012167,0.002093592,degree0,peel-1,pagerank0,diversity1,betweenness1
 4,Aegon V Targaryen,1,1,0.0,0.0,0.000255747,degree-1,peel-2,pagerank-1,diversity0,betweenness0
 5,Aemon Targaryen (Dragonknight),1,1,0.0,0.0,0.000220526,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-6,Aemon Targaryen (Maester Aemon),26,8,1.751052605,0.019000091,0.005212806,degree1,peel-1,pagerank0,diversity-1,betweenness0
-7,Aenys Frey,4,3,1.386294361,0.000811867,0.000587833,degree-1,peel0,pagerank0,diversity1,betweenness-1
-8,Aeron Greyjoy,15,5,1.748970751,0.012935047,0.004498805,degree0,peel-2,pagerank2,diversity-1,betweenness0
 9,Aerys I Targaryen,1,1,0.0,0.0,0.000215297,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-10,Aerys II Targaryen,19,10,1.70407034,0.014068789,0.002867744,degree0,peel1,pagerank1,diversity0,betweenness0
-11,Aggar,4,2,1.039720771,0.007996771,0.001118448,degree-1,peel-1,pagerank4,diversity0,betweenness0
-12,Aggo,10,8,0.940447989,0.000100433,0.001520208,degree0,peel0,pagerank-1,diversity-2,betweenness-1
-13,Alayaya,4,3,1.039720771,0.002515723,0.000547053,degree-1,peel0,pagerank0,diversity-1,betweenness2
-14,Albett,3,3,0.636514168,0.0,0.000332455,degree-1,peel0,pagerank-1,diversity-2,betweenness-1
-15,Alebelly,4,3,1.386294361,7.13e-06,0.000451938,degree-1,peel0,pagerank-1,diversity1,betweenness-1
-16,Alerie Hightower,2,2,0.0,0.0,0.000245362,degree-1,peel-1,pagerank-1,diversity-3,betweenness-1
-17,Alester Florent,7,6,1.351783994,0.000362833,0.000742177,degree-1,peel2,pagerank-1,diversity0,betweenness-1
-18,Alla Tyrell,5,4,1.33217904,1.18e-05,0.000754206,degree-1,peel1,pagerank0,diversity0,betweenness-1
-19,Allar Deem,2,2,0.693147181,0.0,0.000257008,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-20,Allard Seaworth,3,2,1.098612289,1.67e-05,0.000495025,degree-1,peel-1,pagerank0,diversity1,betweenness0
-21,Alleras,8,4,0.900256051,0.014199147,0.001749233,degree0,peel-2,pagerank0,diversity-1,betweenness0
-22,Alliser Thorne,15,8,1.487816716,0.002217858,0.001928278,degree0,peel0,pagerank0,diversity0,betweenness1
-23,Alyn,5,5,1.33217904,2.3e-05,0.000538663,degree-1,peel1,pagerank-1,diversity0,betweenness-1
-24,Alys Arryn,2,1,0.693147181,0.002515723,0.000649616,degree-1,peel-2,pagerank1,diversity1,betweenness-1
-25,Alys Karstark,3,3,1.098612289,0.0,0.00050154,degree-1,peel0,pagerank-1,diversity0,betweenness-1
-26,Alysane Mormont,3,3,1.098612289,0.0,0.000720381,degree-1,peel0,pagerank0,diversity0,betweenness-1
-27,Amabel,2,2,0.693147181,0.0,0.000431671,degree-1,peel-1,pagerank0,diversity0,betweenness-1
-28,Amerei Frey,3,3,1.098612289,2.3e-06,0.000412983,degree-1,peel0,pagerank-1,diversity0,betweenness-1
-29,Amory Lorch,20,12,1.344257669,0.001181454,0.00122693,degree1,peel0,pagerank-2,diversity-1,betweenness0
-30,Anders Yronwood,2,2,0.693147181,1.66e-05,0.000280168,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-31,Andrew Estermont,3,2,1.098612289,0.002515723,0.000589546,degree-1,peel-1,pagerank1,diversity0,betweenness0
-32,Andrey Dalt,5,5,0.950270539,4.1e-05,0.000832746,degree-1,peel1,pagerank0,diversity-1,betweenness-1
-33,Anguy,9,6,1.735126457,0.001262506,0.001294206,degree0,peel-1,pagerank-1,diversity0,betweenness0
-34,Anya Waynwood,7,4,0.79631164,0.000583944,0.001147792,degree-1,peel1,pagerank1,diversity-1,betweenness0
-35,Archibald Yronwood,4,4,0.562335145,2.38e-06,0.000918824,degree-1,peel1,pagerank0,diversity-2,betweenness-1
-36,Ardrian Celtigar,1,1,0.0,0.0,0.000432511,degree-1,peel-2,pagerank0,diversity0,betweenness0
-37,Areo Hotah,9,6,1.522955068,0.000130391,0.001863187,degree0,peel-1,pagerank0,diversity-1,betweenness-2
-38,Arianne Martell,20,6,2.029682547,0.017878371,0.003815659,degree1,peel-2,pagerank0,diversity0,betweenness0
-39,Armen,6,4,0.450561209,1.69e-05,0.001056421,degree-1,peel1,pagerank1,diversity-2,betweenness-1
-40,Arnolf Karstark,5,4,1.609437912,0.002619954,0.000704456,degree-1,peel1,pagerank0,diversity1,betweenness0
 41,Aron Santagar,1,1,0.0,0.0,0.000214682,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-42,Arron,3,3,1.098612289,0.0,0.000520314,degree-1,peel0,pagerank-1,diversity0,betweenness-1
 43,Arson,1,1,0.0,0.0,0.00022145,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-44,Arstan,8,6,1.213007566,0.000123935,0.001309324,degree0,peel-1,pagerank-1,diversity-1,betweenness-1
 45,Arthor Karstark,1,1,0.0,0.0,0.000278294,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-46,Arthur Dayne,5,3,1.609437912,0.005297159,0.001060521,degree-1,peel0,pagerank2,diversity0,betweenness1
 47,Arwyn Oakheart,1,1,0.0,0.0,0.000235214,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-48,Arya Stark,84,13,2.332991632,0.087242361,0.018538945,degree6,peel0,pagerank0,diversity0,betweenness0
-49,Arys Oakheart,9,6,1.522955068,0.001771183,0.001188945,degree0,peel-1,pagerank-1,diversity0,betweenness1
-50,Asha Greyjoy,25,5,1.809598882,0.033024754,0.005649906,degree1,peel-3,pagerank-1,diversity0,betweenness0
 51,Ashara Dayne,1,1,0.0,0.0,0.00023108,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-52,Aurane Waters,9,8,1.522955068,7.82e-05,0.000577919,degree0,peel0,pagerank-2,diversity1,betweenness0
-53,Axell Florent,10,6,1.83437197,0.001703351,0.001524473,degree0,peel-1,pagerank0,diversity1,betweenness-1
 54,Azor Ahai,1,1,0.0,0.0,0.000255405,degree-1,peel-2,pagerank-1,diversity0,betweenness0
 55,Bael the Bard,1,1,0.0,0.0,0.000250263,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-56,Baelor Blacktyde,4,4,0.562335145,0.0,0.000542884,degree-1,peel1,pagerank-1,diversity-2,betweenness-1
-57,Baelor I Targaryen,3,3,0.0,0.0,0.000316271,degree-1,peel0,pagerank-2,diversity-1,betweenness0
-58,Ballabar,3,2,1.098612289,0.002515723,0.000617424,degree-1,peel-1,pagerank1,diversity0,betweenness0
-59,Balman Byrch,3,3,1.098612289,0.0,0.000466159,degree-1,peel0,pagerank-1,diversity0,betweenness-1
-60,Balon Greyjoy,13,7,1.118968867,0.009545732,0.002957548,degree0,peel-1,pagerank1,diversity-3,betweenness0
-61,Balon Swann,16,11,1.541976433,0.003599005,0.001195924,degree0,peel1,pagerank-2,diversity0,betweenness0
-62,Bannen,2,2,0.693147181,0.0,0.00037383,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-63,Barbrey Dustin,6,5,1.329661349,0.000182731,0.000787446,degree-1,peel1,pagerank0,diversity0,betweenness-1
-64,Barristan Selmy,41,12,2.153082,0.045549578,0.006072068,degree2,peel0,pagerank0,diversity0,betweenness0
 65,Barsena,1,1,0.0,0.0,0.000235622,degree-1,peel-2,pagerank-1,diversity0,betweenness0
 66,Bartimus,1,1,0.0,0.0,0.000243793,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-67,Bedwyck,5,5,0.500402424,0.0,0.000397118,degree-1,peel1,pagerank-2,diversity-1,betweenness-1
-68,Belaquo,4,4,0.693147181,1.28e-05,0.000603305,degree-1,peel1,pagerank-1,diversity-2,betweenness-1
 69,Bellegere Otherys,1,1,0.0,0.0,0.000220809,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-70,Belwas,13,8,1.410513557,0.000281012,0.002070866,degree0,peel0,pagerank0,diversity0,betweenness-2
-71,Ben Bones,2,2,0.693147181,0.0,0.000325274,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-72,Ben Plumm,9,6,1.676987774,0.001076548,0.001036099,degree0,peel-1,pagerank-1,diversity0,betweenness0
-73,Benedar Belmore,5,4,0.500402424,0.000440168,0.000641825,degree-1,peel1,pagerank-1,diversity-2,betweenness2
-74,Benerro,4,4,1.386294361,3.71e-05,0.000431198,degree-1,peel1,pagerank-1,diversity0,betweenness-1
-75,Benethon Scales,2,2,0.693147181,0.0,0.000312033,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-76,Benfred Tallhart,4,3,1.039720771,0.000366933,0.000599811,degree-1,peel0,pagerank0,diversity-1,betweenness-1
-77,Benjen Stark,14,9,1.593424237,0.005675488,0.001597077,degree0,peel0,pagerank-1,diversity0,betweenness1
-78,Beric Dondarrion,18,10,1.351039416,0.002139778,0.002079181,degree0,peel1,pagerank0,diversity-2,betweenness0
-79,Beth Cassel,3,3,0.0,0.0,0.000317037,degree-1,peel0,pagerank-2,diversity-1,betweenness0
-80,Big Boil,2,2,0.693147181,0.0,0.000258542,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-81,Biter,5,5,1.054920168,9.44e-05,0.000782857,degree-1,peel1,pagerank0,diversity-1,betweenness-1
-82,Black Balaq,1,1,0.0,0.0,0.000331797,degree-1,peel-2,pagerank0,diversity0,betweenness0
 83,Blane,1,1,0.0,0.0,0.000220771,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-84,Bloodbeard,4,4,1.386294361,0.000112216,0.00039272,degree-1,peel1,pagerank-2,diversity1,betweenness1
-85,Blue Bard,5,4,1.609437912,0.000908267,0.000534842,degree-1,peel1,pagerank-1,diversity1,betweenness1
 86,Bonifer Hasty,1,1,0.0,0.0,0.000231221,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-87,Boros Blount,14,11,1.536722469,0.000227913,0.001547904,degree0,peel1,pagerank-1,diversity-1,betweenness0
-88,Bowen Marsh,18,8,1.428055769,0.001065829,0.002438314,degree0,peel0,pagerank0,diversity0,betweenness-1
-89,Bran Stark,54,12,2.160724355,0.044911179,0.016699569,degree3,peel-2,pagerank0,diversity0,betweenness0
-90,Brandon Norrey,2,1,0.693147181,0.002515723,0.000597971,degree-1,peel-2,pagerank1,diversity1,betweenness-1
-91,Brandon Stark,8,6,1.213007566,0.000462025,0.000811601,degree0,peel-1,pagerank-1,diversity-1,betweenness-1
-92,Brea,3,2,0.636514168,1.58e-06,0.00054718,degree-1,peel-1,pagerank0,diversity0,betweenness-1
-93,Brella,2,2,0.693147181,0.0,0.0003005,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
 94,Brenett,1,1,0.0,0.0,0.000219962,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-95,Brienne of Tarth,45,13,2.208504507,0.032251919,0.007360664,degree2,peel0,pagerank1,diversity0,betweenness0
-96,Bronn,25,10,2.033458636,0.00290005,0.003617359,degree1,peel0,pagerank0,diversity0,betweenness-1
-97,Brus Buckler,3,3,0.636514168,0.0,0.000496241,degree-1,peel0,pagerank-1,diversity-2,betweenness-1
-98,Brusco,2,2,0.693147181,0.0,0.000482345,degree-1,peel-1,pagerank0,diversity0,betweenness-1
-99,Bryce Caron,5,3,1.33217904,0.005174682,0.000780848,degree-1,peel0,pagerank1,diversity0,betweenness1
-100,Brynden Rivers,2,2,0.693147181,0.0,0.000345825,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-101,Brynden Tully,19,10,1.986266518,0.002227036,0.002297805,degree0,peel1,pagerank0,diversity0,betweenness-1
-102,Bump,1,1,0.0,0.0,0.00034388,degree-1,peel-2,pagerank0,diversity0,betweenness0
-103,Butterbumps,2,2,0.693147181,0.0,0.000288816,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
 104,Byam Flint,1,1,0.0,0.0,0.000224228,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-105,Caggo,5,4,0.950270539,0.002515723,0.00083633,degree-1,peel1,pagerank0,diversity-1,betweenness1
-106,Caleotte,4,4,1.386294361,7.3e-05,0.000534515,degree-1,peel1,pagerank-1,diversity0,betweenness-1
 107,Camarron,1,1,0.0,0.0,0.000278713,degree-1,peel-2,pagerank-1,diversity0,betweenness0
 108,Captain Myraham,1,1,0.0,0.0,0.000248835,degree-1,peel-2,pagerank-1,diversity0,betweenness0
 109,Captain Myraham Daughter,1,1,0.0,0.0,0.000233737,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-110,Catelyn Stark,75,13,2.317345932,0.054973668,0.015210744,degree5,peel0,pagerank-2,diversity0,betweenness0
-111,Cayn,3,3,0.636514168,7.38e-06,0.00036926,degree-1,peel0,pagerank-1,diversity-2,betweenness-1
-112,Cedra,2,2,0.693147181,0.0,0.000415537,degree-1,peel-1,pagerank0,diversity0,betweenness-1
 113,Cedric Payne,1,1,0.0,0.0,0.000224332,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-114,Cellador,4,4,1.039720771,1.58e-06,0.000443189,degree-1,peel1,pagerank-1,diversity-1,betweenness-1
-115,Cersei Lannister,97,13,2.401216936,0.088704267,0.023607039,degree7,peel0,pagerank0,diversity0,betweenness0
 116,Chataya,1,1,0.0,0.0,0.000285567,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-117,Chayle,2,2,0.693147181,0.0,0.000296296,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-118,Chella,3,3,0.636514168,0.0,0.000341398,degree-1,peel0,pagerank-1,diversity-2,betweenness-1
-119,Chett,7,5,1.277034259,9.59e-05,0.000911682,degree-1,peel1,pagerank0,diversity0,betweenness-1
-120,Chiggen,3,3,1.098612289,0.0,0.000362125,degree-1,peel0,pagerank-1,diversity0,betweenness-1
-121,Chiswyck,13,12,0.898137003,4.28e-05,0.000715803,degree0,peel2,pagerank-2,diversity0,betweenness0
 122,Clarence Crabb,1,1,0.0,0.0,0.000236456,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-123,Clayton Suggs,3,3,0.636514168,0.0,0.000431088,degree-1,peel0,pagerank-1,diversity-2,betweenness-1
-124,Clement Piper,2,2,0.693147181,0.0,0.000329309,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-125,Cleon,3,2,1.098612289,1.91e-05,0.000513622,degree-1,peel-1,pagerank0,diversity1,betweenness1
-126,Cleos Frey,7,7,0.0,1.95e-05,0.001092543,degree-1,peel3,pagerank0,diversity0,betweenness0
-127,Cletus Yronwood,5,4,1.33217904,0.000787012,0.000626553,degree-1,peel1,pagerank-1,diversity0,betweenness0
-128,Cley Cerwyn,3,3,0.636514168,0.0,0.000339014,degree-1,peel0,pagerank-1,diversity-2,betweenness-1
-129,Clubfoot Karl,2,2,0.0,0.0,0.000292428,degree-1,peel-1,pagerank-1,diversity-3,betweenness-1
-130,Clydas,7,6,1.475076311,0.00022216,0.001215514,degree-1,peel2,pagerank2,diversity0,betweenness0
-131,Cohollo,4,4,1.039720771,0.0,0.000563735,degree-1,peel1,pagerank-1,diversity-1,betweenness-1
-132,Coldhands,4,4,0.562335145,1.59e-05,0.000373553,degree-1,peel1,pagerank-2,diversity-1,betweenness-1
-133,Colemon,6,4,1.011404265,0.000114647,0.000654006,degree-1,peel1,pagerank-1,diversity-1,betweenness2
-134,Colen of Greenpools,2,2,0.0,0.0,0.000281137,degree-1,peel-1,pagerank-1,diversity-3,betweenness-1
-135,Conn,3,2,1.098612289,0.002515723,0.000695691,degree-1,peel-1,pagerank1,diversity0,betweenness0
-136,Coratt,1,1,0.0,0.0,0.000336228,degree-1,peel-2,pagerank0,diversity0,betweenness0
 137,Corliss Penny,1,1,0.0,0.0,0.000221924,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-138,Cortnay Penrose,7,6,1.153741943,0.00066034,0.000699725,degree-1,peel2,pagerank-1,diversity-1,betweenness0
-139,Cotter Pyke,10,8,0.940447989,0.000259524,0.000973969,degree0,peel0,pagerank-1,diversity-2,betweenness1
-140,Craster,15,8,1.522699926,0.003894223,0.002708792,degree0,peel0,pagerank1,diversity0,betweenness0
-141,Creighton Longbough,3,2,0.636514168,2.56e-05,0.00081125,degree-1,peel-1,pagerank2,diversity-2,betweenness-1
-142,Cressen,9,7,1.464816385,0.000352511,0.001279163,degree0,peel-1,pagerank-1,diversity-1,betweenness-1
-143,Cromm,2,2,0.0,0.0,0.000526047,degree-1,peel-1,pagerank0,diversity-3,betweenness0
-144,Cutjack,3,1,0.636514168,0.005028278,0.001103553,degree-1,peel-2,pagerank4,diversity-1,betweenness0
-145,Daario Naharis,19,8,1.48322096,0.005468229,0.002784419,degree0,peel0,pagerank1,diversity0,betweenness0
-146,Dacey Mormont,3,3,0.636514168,0.0,0.000323102,degree-1,peel0,pagerank-1,diversity-2,betweenness-1
-147,Daemon Sand,2,2,0.693147181,0.0,0.000256672,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-148,Daenerys Targaryen,73,9,2.181770082,0.118418019,0.022306882,degree5,peel-2,pagerank0,diversity0,betweenness0
 149,Daeron I Targaryen,1,1,0.0,0.0,0.000234727,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-150,Daeron II Targaryen,2,2,0.693147181,0.001246763,0.000257479,degree-1,peel-1,pagerank-1,diversity0,betweenness7
-151,Dagmer,5,5,1.054920168,0.000143971,0.000608929,degree-1,peel1,pagerank-1,diversity-1,betweenness3
-152,Dalbridge,3,3,1.098612289,0.0,0.000366312,degree-1,peel0,pagerank-1,diversity0,betweenness-1
-153,Dalla,6,6,1.242453325,3.51e-05,0.000753343,degree-1,peel2,pagerank0,diversity0,betweenness-1
-154,Damon Dance for Me,5,4,1.33217904,9.35e-06,0.000774889,degree-1,peel1,pagerank0,diversity0,betweenness-1
 155,Dancy,1,1,0.0,0.0,0.000275602,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-156,Danwell Frey,3,2,0.636514168,0.001046981,0.000511944,degree-1,peel-1,pagerank0,diversity0,betweenness1
-157,Dareon,6,5,1.242453325,0.003075872,0.000930619,degree-1,peel1,pagerank0,diversity0,betweenness1
-158,Daryn Hornwood,2,2,0.693147181,0.0,0.000310475,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-159,Daven Lannister,3,3,1.098612289,0.0,0.00039655,degree-1,peel0,pagerank-1,diversity0,betweenness-1
-160,Davos Seaworth,33,7,2.120173779,0.023846811,0.007860805,degree2,peel-2,pagerank-1,diversity0,betweenness0
-161,Denyo Terys,2,2,0.693147181,0.0,0.000380068,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
 162,Denys Darklyn,1,1,0.0,0.0,0.000241434,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-163,Denys Mallister,9,8,0.683738906,1.26e-05,0.000858632,degree0,peel0,pagerank-2,diversity-2,betweenness-2
 164,Denzo Dhan,1,1,0.0,0.0,0.000258358,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-165,Desmond,2,2,0.0,0.0,0.000259839,degree-1,peel-1,pagerank-1,diversity-3,betweenness-1
-166,Desmond Grell,4,3,1.039720771,3.2e-06,0.000619345,degree-1,peel0,pagerank0,diversity-1,betweenness-1
-167,Devan Seaworth,6,5,1.560710409,0.000328126,0.000829714,degree-1,peel1,pagerank0,diversity1,betweenness-1
-168,Dick Crabb,5,4,0.950270539,0.002557403,0.00081538,degree-1,peel1,pagerank0,diversity-1,betweenness1
-169,Dick Follard,2,2,0.693147181,0.0,0.000294019,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-170,Dick Straw,2,1,0.693147181,0.002515723,0.000645862,degree-1,peel-2,pagerank1,diversity1,betweenness-1
-171,Dirk,2,2,0.0,0.0,0.000303233,degree-1,peel-1,pagerank-1,diversity-3,betweenness-1
 172,Dobber,1,1,0.0,0.0,0.000231597,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-173,Dolf,1,1,0.0,0.0,0.000369739,degree-1,peel-2,pagerank0,diversity0,betweenness0
-174,Donal Noye,8,6,1.386294361,0.000240414,0.001235143,degree0,peel-1,pagerank-1,diversity-1,betweenness-1
-175,Donella Hornwood,7,4,1.549826046,0.000224091,0.000635385,degree-1,peel1,pagerank-1,diversity1,betweenness-1
 176,Donnel Waynwood,1,1,0.0,0.0,0.000219962,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-177,Dontos Hollard,9,7,0.848685558,0.000468306,0.001197805,degree0,peel-1,pagerank-1,diversity-3,betweenness0
-178,Doran Martell,21,9,2.045576462,0.014536796,0.002944615,degree1,peel-1,pagerank-1,diversity0,betweenness0
-179,Dorcas,6,5,1.791759469,5.21e-06,0.00061026,degree-1,peel1,pagerank-1,diversity1,betweenness-1
-180,Doreah,6,6,0.450561209,2.07e-06,0.000790894,degree-1,peel2,pagerank0,diversity-2,betweenness0
-181,Draqaz,1,1,0.0,0.0,0.000355612,degree-1,peel-2,pagerank0,diversity0,betweenness0
-182,Drennan,2,2,0.693147181,0.0,0.000379843,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-183,Drogo,21,8,1.706770659,0.012390513,0.004373204,degree1,peel-1,pagerank0,diversity-1,betweenness-1
 184,Dryn,1,1,0.0,0.0,0.000226914,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-185,Dunsen,13,12,0.898137003,4.28e-05,0.001547673,degree0,peel2,pagerank-1,diversity0,betweenness-1
-186,Dunstan Drumm,3,3,0.636514168,7.34e-06,0.000466786,degree-1,peel0,pagerank-1,diversity-2,betweenness-1
-187,Dywen,8,6,1.073542846,0.000552933,0.000861158,degree0,peel-1,pagerank-1,diversity-2,betweenness1
-188,Ebben,4,3,1.039720771,1.06e-06,0.000558816,degree-1,peel0,pagerank0,diversity-1,betweenness-1
-189,Eddard Stark,74,13,2.290519575,0.078732393,0.01893822,degree5,peel0,pagerank1,diversity0,betweenness0
-190,Eddison Tollett,20,8,1.33999644,0.003126949,0.002152904,degree1,peel-1,pagerank-2,diversity-1,betweenness0
-191,Edmure Tully,24,10,2.0252303,0.003460566,0.003702267,degree1,peel0,pagerank0,diversity0,betweenness-1
-192,Edric Storm,6,5,1.329661349,0.001610784,0.000897121,degree-1,peel1,pagerank0,diversity0,betweenness0
-193,Edwyn Frey,4,4,1.386294361,1.04e-06,0.000544132,degree-1,peel1,pagerank-1,diversity0,betweenness-1
 194,Elbert Arryn,1,1,0.0,0.0,0.000228186,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-195,Elder Brother,3,3,0.636514168,0.0,0.000392228,degree-1,peel0,pagerank-1,diversity-2,betweenness-1
-196,Eldon Estermont,2,1,0.693147181,0.002515723,0.000695329,degree-1,peel-2,pagerank2,diversity0,betweenness-1
-197,Elia Martell,9,7,1.303092404,0.002700036,0.00093676,degree0,peel-1,pagerank-1,diversity-1,betweenness1
-198,Elinor Tyrell,5,4,0.950270539,3.16e-05,0.000807866,degree-1,peel1,pagerank0,diversity-1,betweenness-1
-199,Ellaria Sand,6,6,1.329661349,0.000988794,0.000464905,degree-1,peel2,pagerank-2,diversity-1,betweenness0
-200,Elmar Frey,9,9,0.848685558,0.000105404,0.000677919,degree0,peel0,pagerank-2,diversity-1,betweenness-1
-201,Elys Waynwood,1,1,0.0,0.0,0.000504899,degree-1,peel-2,pagerank1,diversity-1,betweenness0
-202,Emmett,5,4,1.609437912,2.22e-05,0.000643053,degree-1,peel1,pagerank-1,diversity1,betweenness-1
-203,Emmon Cuy,3,3,0.636514168,1.69e-05,0.000386363,degree-1,peel0,pagerank-1,diversity-2,betweenness-1
-204,Emmon Frey,8,5,1.559581156,0.000464205,0.000830611,degree0,peel-2,pagerank-1,diversity0,betweenness-1
 205,Emmond,1,1,0.0,0.0,0.000290008,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-206,Emrick,3,3,1.098612289,0.0,0.000475367,degree-1,peel0,pagerank-1,diversity0,betweenness-1
-207,Eon Hunter,3,3,1.098612289,0.0,0.00029378,degree-1,peel0,pagerank-2,diversity1,betweenness0
 208,Eroeh,1,1,0.0,0.0,0.000282801,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-209,Errok,3,3,1.098612289,1.06e-06,0.000457692,degree-1,peel0,pagerank-1,diversity0,betweenness-1
-210,Euron Greyjoy,13,5,1.804371619,0.008004883,0.004461793,degree0,peel-2,pagerank2,diversity0,betweenness0
 211,Eustace Brune,1,1,0.0,0.0,0.000241736,degree-1,peel-2,pagerank-1,diversity0,betweenness0
 212,Ezzara,1,1,0.0,0.0,0.000223827,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-213,Falyse Stokeworth,4,3,1.039720771,5.51e-06,0.000584925,degree-1,peel0,pagerank0,diversity-1,betweenness-1
 214,Farlen,1,1,0.0,0.0,0.000279032,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-215,Florian the Fool,2,1,0.693147181,0.002515723,0.000795762,degree-1,peel-2,pagerank2,diversity0,betweenness-1
-216,Fogo,1,1,0.0,0.0,0.000328426,degree-1,peel-2,pagerank0,diversity0,betweenness0
-217,Forley Prester,2,2,0.693147181,0.0,0.000268983,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-218,Franklyn Flowers,3,2,0.636514168,0.002515723,0.000562059,degree-1,peel-1,pagerank0,diversity0,betweenness4
 219,Franklyn Fowler,1,1,0.0,0.0,0.00023997,degree-1,peel-2,pagerank-1,diversity0,betweenness0
 220,Frenken,1,1,0.0,0.0,0.000279681,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-221,Frenya,2,2,0.693147181,0.0,0.000381121,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-222,Fulk,2,2,0.693147181,0.0,0.000312726,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-223,Galazza Galare,6,5,1.560710409,7.68e-05,0.00095014,degree-1,peel1,pagerank0,diversity1,betweenness-2
-224,Galbart Glover,8,6,1.320888343,0.000946307,0.000672682,degree0,peel-1,pagerank-2,diversity0,betweenness0
 225,Galyeon of Cuy,1,1,0.0,0.0,0.00021758,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-226,Gared,3,2,0.636514168,0.001020953,0.000930895,degree-1,peel-1,pagerank2,diversity-2,betweenness0
-227,Garin (orphan),9,5,1.427061043,0.000798417,0.001327989,degree0,peel-2,pagerank-1,diversity-1,betweenness-1
-228,Gariss,2,1,0.693147181,0.002515723,0.001045996,degree-1,peel-2,pagerank4,diversity0,betweenness0
-229,Garlan Tyrell,7,6,0.79631164,0.002519168,0.000765968,degree-1,peel2,pagerank0,diversity-1,betweenness0
 230,Garrett Paege,1,1,0.0,0.0,0.000220526,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-231,Garth (Wolfs Den),2,2,0.693147181,0.0,0.000324762,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-232,Garth Greyfeather,3,3,0.636514168,0.0,0.000462355,degree-1,peel0,pagerank-1,diversity-2,betweenness-1
 233,Garth Tyrell,1,1,0.0,0.0,0.000215389,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-234,Gawen Westerling,2,2,0.0,2.64e-06,0.000312257,degree-1,peel-1,pagerank-1,diversity-3,betweenness4
-235,Gelmarr,1,1,0.0,0.0,0.000408841,degree-1,peel-2,pagerank0,diversity0,betweenness0
-236,Gendel,2,2,0.693147181,0.0,0.000385128,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-237,Gendry,20,8,2.029682547,0.012466572,0.003370625,degree1,peel-1,pagerank-1,diversity-1,betweenness0
-238,Genna Lannister,3,3,0.636514168,0.0,0.000371735,degree-1,peel0,pagerank-1,diversity-2,betweenness-1
-239,Gerald Gower,1,1,0.0,0.0,0.000325153,degree-1,peel-2,pagerank0,diversity0,betweenness0
-240,Gerold Dayne,5,5,1.054920168,9.13e-06,0.000672915,degree-1,peel1,pagerank-1,diversity-1,betweenness-1
-241,Gerold Grafton,1,1,0.0,0.0,0.00036738,degree-1,peel-2,pagerank0,diversity0,betweenness0
-242,Gerold Hightower,8,5,1.494175138,0.008395747,0.001095867,degree0,peel-2,pagerank-1,diversity0,betweenness1
-243,Gerrick Kingsblood,2,1,0.693147181,0.002515723,0.00055369,degree-1,peel-2,pagerank1,diversity1,betweenness-1
-244,Gerris Drinkwater,9,4,1.303092404,0.00265698,0.001808226,degree0,peel-2,pagerank0,diversity0,betweenness0
-245,Ghael,2,2,0.693147181,0.0,0.000386775,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-246,Gilly,14,8,1.351783994,0.00112531,0.002697651,degree0,peel0,pagerank1,diversity-1,betweenness1
-247,Gilwood Hunter,5,4,0.500402424,0.000275404,0.000692599,degree-1,peel1,pagerank-1,diversity-2,betweenness1
 248,Godric Borrell,1,1,0.0,0.0,0.000312981,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-249,Godry Farring,7,5,1.549826046,0.001010475,0.000636765,degree-1,peel1,pagerank-1,diversity1,betweenness1
-250,Goghor the Giant,4,4,0.562335145,1.06e-06,0.000718528,degree-1,peel1,pagerank0,diversity-2,betweenness-1
-251,Gormon Tyrell,1,1,0.0,0.0,0.000377591,degree-1,peel-2,pagerank0,diversity0,betweenness0
-252,Gormond Goodbrother,1,1,0.0,0.0,0.00034079,degree-1,peel-2,pagerank0,diversity0,betweenness0
-253,Gorne,2,2,0.693147181,0.0,0.000385128,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-254,Gorold Goodbrother,2,2,0.0,0.0,0.00052173,degree-1,peel-1,pagerank0,diversity-3,betweenness0
 255,Grazdan mo Eraz,1,1,0.0,0.0,0.000257173,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-256,Grazhar,3,3,1.098612289,3.76e-05,0.000439397,degree-1,peel0,pagerank-1,diversity0,betweenness0
-257,Greenbeard,7,6,1.277034259,5.72e-06,0.00072922,degree-1,peel2,pagerank-1,diversity0,betweenness-1
-258,Gregor Clegane,33,13,1.662755842,0.005485884,0.004225564,degree2,peel0,pagerank-2,diversity0,betweenness0
-259,Grenn,15,8,1.337860678,0.000474681,0.003203872,degree0,peel0,pagerank1,diversity-1,betweenness-1
-260,Gretchel,4,4,1.039720771,1.2e-05,0.000552535,degree-1,peel1,pagerank-1,diversity-1,betweenness-1
-261,Grey Worm,8,8,0.73562194,3.26e-05,0.00087105,degree0,peel0,pagerank-2,diversity-2,betweenness0
 262,Greydon Goodbrother,1,1,0.0,0.0,0.000290008,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-263,Grigg,3,3,1.098612289,1.06e-06,0.000476586,degree-1,peel0,pagerank-1,diversity0,betweenness-1
-264,Grimtongue,4,3,1.039720771,0.001271235,0.000876535,degree-1,peel0,pagerank1,diversity-1,betweenness1
 265,Grisel,1,1,0.0,0.0,0.00021762,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-266,Groleo,6,5,1.242453325,3.57e-05,0.000603235,degree-1,peel1,pagerank-1,diversity0,betweenness-1
-267,Grunt,3,3,0.636514168,0.0,0.000481448,degree-1,peel0,pagerank-1,diversity-2,betweenness-1
-268,Guncer Sunglass,2,2,0.693147181,0.0,0.000274918,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
 269,Gunthor son of Gurn,1,1,0.0,0.0,0.000256429,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-270,Guyard Morrigen,2,2,0.693147181,0.0,0.000415617,degree-1,peel-1,pagerank0,diversity0,betweenness-1
-271,Gyles Grafton,2,2,0.693147181,0.0,0.000529945,degree-1,peel-1,pagerank0,diversity0,betweenness-1
-272,Gyles Rosby,18,10,1.923068868,0.000415441,0.001277748,degree0,peel1,pagerank-1,diversity0,betweenness-1
-273,Gynir,2,2,0.693147181,8.06e-05,0.000512858,degree-1,peel-1,pagerank0,diversity0,betweenness-1
-274,Hagen,6,3,0.867563228,0.001299751,0.000997847,degree-1,peel0,pagerank2,diversity-2,betweenness0
-275,Haggo,6,5,1.329661349,3.12e-06,0.000777584,degree-1,peel1,pagerank0,diversity0,betweenness-1
-276,Haggon,1,1,0.0,0.0,0.000437142,degree-1,peel-2,pagerank0,diversity0,betweenness0
-277,Hairy Hal,3,3,0.636514168,0.0,0.000451397,degree-1,peel0,pagerank-1,diversity-2,betweenness-1
 278,Hake,1,1,0.0,0.0,0.000232452,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-279,Halder,8,5,1.386294361,4.41e-05,0.000931331,degree0,peel-2,pagerank-1,diversity-1,betweenness-1
-280,Haldon,11,6,1.641734712,0.000285338,0.001811175,degree0,peel-1,pagerank0,diversity0,betweenness-1
 281,Hali,1,1,0.0,0.0,0.000216665,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-282,Hallis Mollen,6,5,1.329661349,0.000118024,0.000736982,degree-1,peel1,pagerank0,diversity0,betweenness-1
-283,Hallyne,2,2,0.0,0.0,0.000262194,degree-1,peel-1,pagerank-1,diversity-3,betweenness-1
 284,Halys Hornwood,1,1,0.0,0.0,0.000222694,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-285,Hareth (Moles Town),11,5,1.641734712,0.002203437,0.001266545,degree0,peel-2,pagerank-1,diversity0,betweenness-1
 286,Harl,1,1,0.0,0.0,0.000308393,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-287,Harma,8,6,1.386294361,3.91e-05,0.000718848,degree0,peel-1,pagerank-2,diversity1,betweenness0
-288,Harra,2,2,0.693147181,0.0,0.000367546,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
 289,Harras Harlaw,1,1,0.0,0.0,0.000267817,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-290,Harren Hoare,3,3,1.098612289,7.67e-05,0.000409919,degree-1,peel0,pagerank-1,diversity0,betweenness0
-291,Harrold Hardyng,3,3,0.636514168,8.45e-06,0.000432205,degree-1,peel0,pagerank-1,diversity-2,betweenness-1
-292,Harry Strickland,3,2,0.636514168,5.34e-06,0.000640291,degree-1,peel-1,pagerank1,diversity-1,betweenness-1
-293,Harwin,11,7,1.798652206,0.000358115,0.001040526,degree0,peel-1,pagerank-1,diversity0,betweenness-1
 294,Harwood Stout,1,1,0.0,0.0,0.000263933,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-295,Harys Swyft,9,8,1.214889654,8.29e-05,0.000625421,degree0,peel0,pagerank-2,diversity0,betweenness-1
-296,Hayhead,2,2,0.693147181,0.0,0.000305517,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-297,Helman Tallhart,4,3,1.386294361,0.000136037,0.000439299,degree-1,peel0,pagerank-1,diversity1,betweenness1
-298,Hero,4,4,1.039720771,0.0,0.000484281,degree-1,peel1,pagerank-1,diversity-1,betweenness-1
-299,Heward,2,2,0.693147181,0.0,0.000316455,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-300,High Septon (fat one),3,3,0.0,0.0,0.000299908,degree-1,peel0,pagerank-2,diversity-1,betweenness0
-301,High Septon (Tyrions),4,4,0.0,0.0,0.000410379,degree-1,peel1,pagerank-2,diversity-2,betweenness0
-302,High Sparrow,8,6,1.906154747,3.77e-05,0.000984155,degree0,peel-1,pagerank-1,diversity1,betweenness-1
-303,Hizdahr zo Loraq,22,8,1.857200791,0.005928327,0.004349047,degree1,peel-1,pagerank0,diversity0,betweenness-1
-304,Hobb,11,8,1.120950393,8.7e-05,0.000773659,degree0,peel0,pagerank-2,diversity0,betweenness1
-305,Hobber Redwyne,1,1,0.0,0.0,0.00064311,degree-1,peel-2,pagerank1,diversity-1,betweenness0
-306,Hodor,11,8,1.641734712,0.000213484,0.003778806,degree0,peel0,pagerank2,diversity0,betweenness0
-307,Holly,4,3,1.386294361,8.74e-06,0.000664264,degree-1,peel0,pagerank0,diversity1,betweenness-1
-308,Hop Robin,3,3,1.098612289,0.0,0.000386465,degree-1,peel0,pagerank-1,diversity0,betweenness-1
-309,Horas Redwyne,2,1,0.693147181,0.002515723,0.000759925,degree-1,peel-2,pagerank2,diversity0,betweenness-1
-310,Horton Redfort,4,4,0.0,1.85e-06,0.000687368,degree-1,peel1,pagerank-1,diversity-4,betweenness0
-311,Hosteen Frey,4,2,1.039720771,0.000968636,0.000748541,degree-1,peel-1,pagerank1,diversity0,betweenness-2
 312,Hoster Blackwood,1,1,0.0,0.0,0.000231221,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-313,Hoster Tully,10,7,1.609437912,0.000347545,0.001219369,degree0,peel-1,pagerank-1,diversity0,betweenness-1
-314,Hot Pie,11,6,2.019814992,0.003040202,0.002656905,degree0,peel-1,pagerank1,diversity1,betweenness0
-315,Hother Umber,4,4,1.039720771,4.3e-05,0.000463209,degree-1,peel1,pagerank-1,diversity-1,betweenness0
-316,Hotho Harlaw,4,3,1.039720771,0.000591416,0.000735799,degree-1,peel0,pagerank0,diversity-1,betweenness0
-317,Howland Reed,2,2,0.693147181,0.0,0.000245938,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
 318,Hugh,1,1,0.0,0.0,0.000220576,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-319,Hugh Hungerford,1,1,0.0,0.0,0.000424186,degree-1,peel-2,pagerank0,diversity0,betweenness0
 320,Hugo Vance,1,1,0.0,0.0,0.000220526,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-321,Hullen,6,6,1.242453325,4.65e-05,0.000404489,degree-1,peel2,pagerank-2,diversity-1,betweenness-1
-322,Humfrey Hewett,2,2,0.0,0.0,0.000366511,degree-1,peel-1,pagerank-1,diversity-3,betweenness-1
-323,Husband,2,2,0.693147181,0.0,0.000279971,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-324,Hyle Hunt,7,6,1.153741943,0.000285899,0.000925346,degree-1,peel2,pagerank0,diversity0,betweenness1
-325,Illifer,2,2,0.693147181,0.0,0.000667861,degree-1,peel-1,pagerank1,diversity-1,betweenness-1
-326,Illyrio Mopatis,12,8,1.424129917,0.001202512,0.001720713,degree0,peel0,pagerank0,diversity0,betweenness0
-327,Ilyn Payne,22,12,1.116485597,0.0008953,0.002676977,degree1,peel0,pagerank-1,diversity-1,betweenness-1
 328,Imry Florent,1,1,0.0,0.0,0.000229955,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-329,Irri,15,8,0.720124881,0.000992876,0.002759077,degree0,peel0,pagerank1,diversity-2,betweenness0
-330,Jacelyn Bywater,9,9,1.427061043,1.52e-05,0.000706275,degree0,peel0,pagerank-2,diversity1,betweenness-2
 331,Jack Be Lucky,1,1,0.0,0.0,0.000251953,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-332,Jack Bulwer,5,3,1.33217904,0.000153222,0.000566664,degree-1,peel0,pagerank0,diversity0,betweenness-1
 333,Jacks,1,1,0.0,0.0,0.000227473,degree-1,peel-2,pagerank-1,diversity0,betweenness0
 334,Jaehaerys I Targaryen,1,1,0.0,0.0,0.000255911,degree-1,peel-2,pagerank-1,diversity0,betweenness0
 335,Jafer Flowers,1,1,0.0,0.0,0.000249044,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-336,Jaime Lannister,101,13,2.398059966,0.100838006,0.01975355,degree7,peel0,pagerank-1,diversity0,betweenness0
-337,Jalabhar Xho,5,4,1.33217904,0.00080684,0.000481371,degree-1,peel1,pagerank-1,diversity0,betweenness0
-338,Janos Slynt,23,11,1.274586732,0.007182702,0.002285066,degree1,peel0,pagerank-1,diversity-1,betweenness1
-339,Jaqen Hghar,6,5,1.329661349,2.81e-05,0.000982349,degree-1,peel1,pagerank0,diversity0,betweenness-1
-340,Jared Frey,3,2,0.0,6.07e-06,0.00062169,degree-1,peel-1,pagerank1,diversity-3,betweenness0
-341,Jaremy Rykker,5,4,1.609437912,0.002518575,0.000713031,degree-1,peel1,pagerank0,diversity1,betweenness0
-342,Jarl,8,6,1.073542846,2.07e-05,0.001029757,degree0,peel-1,pagerank-1,diversity-2,betweenness-1
-343,Jarman Buckwell,3,3,1.098612289,0.0,0.000380445,degree-1,peel0,pagerank-1,diversity0,betweenness-1
-344,Jason Mallister,3,3,1.098612289,6.51e-05,0.000365624,degree-1,peel0,pagerank-1,diversity0,betweenness0
-345,Jeor Mormont,28,8,1.925892175,0.017268244,0.006136861,degree1,peel-1,pagerank1,diversity0,betweenness0
-346,Jeyne Farman,1,1,0.0,0.0,0.00033889,degree-1,peel-2,pagerank0,diversity0,betweenness0
 347,Jeyne Heddle,1,1,0.0,0.0,0.000236456,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-348,Jeyne Poole,13,9,1.778233306,0.001726905,0.001625258,degree0,peel0,pagerank-1,diversity0,betweenness-1
-349,Jeyne Westerling,5,4,1.33217904,0.001015193,0.000823548,degree-1,peel1,pagerank0,diversity0,betweenness0
-350,Jhiqui,12,8,0.721463687,7.18e-05,0.002276592,degree0,peel0,pagerank0,diversity-2,betweenness0
-351,Jhogo,12,8,1.234267866,0.000165397,0.001771561,degree0,peel0,pagerank0,diversity-1,betweenness-1
 352,Joanna Lannister,1,1,0.0,0.0,0.000226091,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-353,Jocelyn Swyft,5,5,1.609437912,1.83e-06,0.000505047,degree-1,peel1,pagerank-1,diversity1,betweenness-1
-354,Joffrey Baratheon,69,13,2.108929177,0.031758722,0.017420084,degree4,peel0,pagerank0,diversity0,betweenness0
-355,Jojen Reed,10,8,1.088899975,0.000271599,0.00263205,degree0,peel0,pagerank1,diversity-1,betweenness-1
-356,Jommo,2,2,0.693147181,0.0,0.000329759,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-357,Jon Arryn,17,12,1.203332041,0.008811733,0.002508965,degree0,peel2,pagerank1,diversity0,betweenness0
-358,Jon Connington,16,7,1.78680834,0.012689827,0.002603882,degree0,peel-1,pagerank1,diversity0,betweenness1
 359,Jon Fossoway,1,1,0.0,0.0,0.000245536,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-360,Jon Snow,114,12,2.277964323,0.19211962,0.035693765,degree8,peel0,pagerank0,diversity0,betweenness0
-361,Jon Umber (Greatjon),14,8,1.932806573,0.001360964,0.001593452,degree0,peel0,pagerank-1,diversity1,betweenness-1
-362,Jon Umber (Smalljon),2,2,0.693147181,0.0,0.000293296,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-363,Jonos Bracken,2,2,0.693147181,0.0,0.00034895,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-364,Jonothor Darry,2,2,0.0,0.0,0.000554972,degree-1,peel-1,pagerank0,diversity-3,betweenness0
-365,Jonquil,1,1,0.0,0.0,0.000683271,degree-1,peel-2,pagerank2,diversity-2,betweenness0
-366,Jorah Mormont,26,8,1.655707776,0.010826778,0.004940556,degree1,peel-1,pagerank0,diversity-2,betweenness0
-367,Joramun,2,2,0.0,0.0,0.000300797,degree-1,peel-1,pagerank-1,diversity-3,betweenness-1
-368,Jory Cassel,21,12,1.68185408,0.0048781,0.002033503,degree1,peel0,pagerank-2,diversity0,betweenness0
-369,Joseth,2,2,0.693147181,0.0,0.000254404,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-370,Josmyn Peckledon,2,2,0.693147181,0.0,0.00047755,degree-1,peel-1,pagerank0,diversity0,betweenness-1
 371,Joss,1,1,0.0,0.0,0.00023723,degree-1,peel-2,pagerank-1,diversity0,betweenness0
 372,Joy Hill,1,1,0.0,0.0,0.000220526,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-373,Justin Massey,5,3,1.33217904,4.8e-05,0.000994606,degree-1,peel0,pagerank2,diversity0,betweenness-1
-374,Jyck,2,2,0.693147181,0.0,0.00041563,degree-1,peel-1,pagerank0,diversity0,betweenness-1
-375,Karyl Vance,4,3,1.386294361,2.09e-05,0.000480061,degree-1,peel0,pagerank-1,diversity1,betweenness-1
-376,Kasporio,3,3,1.098612289,0.0,0.000327866,degree-1,peel0,pagerank-1,diversity0,betweenness-1
-377,Kedry,2,2,0.693147181,0.0,0.000303343,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-378,Kegs,7,5,1.351783994,9.87e-06,0.000584785,degree-1,peel1,pagerank-1,diversity0,betweenness-1
 379,Kella,1,1,0.0,0.0,0.000215275,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-380,Kerwin,1,1,0.0,0.0,0.00050594,degree-1,peel-2,pagerank1,diversity-1,betweenness0
-381,Kevan Lannister,17,11,1.506883349,0.001893308,0.002255223,degree0,peel1,pagerank0,diversity-1,betweenness0
-382,Khorane Sathmantes,3,3,1.098612289,0.0,0.000331911,degree-1,peel0,pagerank-1,diversity0,betweenness-1
-383,Khrazz,5,4,1.33217904,0.000747583,0.000713687,degree-1,peel1,pagerank0,diversity0,betweenness-1
-384,Kindly Man,2,2,0.693147181,0.0,0.00057841,degree-1,peel-1,pagerank0,diversity0,betweenness-1
-385,Kojja Mo,2,2,0.0,0.0,0.000349181,degree-1,peel-1,pagerank-1,diversity-3,betweenness-1
-386,Koss,2,2,0.693147181,0.0,0.000279078,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-387,Kraznys mo Nakloz,2,2,0.693147181,0.0,0.000414261,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
 388,Kurleket,1,1,0.0,0.0,0.000237004,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-389,Kurz,1,1,0.0,0.0,0.000570494,degree-1,peel-2,pagerank1,diversity-1,betweenness0
 390,Kyra,1,1,0.0,0.0,0.000248835,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-391,Lambert Turnberry,3,3,0.0,1.06e-06,0.000397737,degree-1,peel0,pagerank-1,diversity-4,betweenness0
-392,Lamprey,4,3,1.039720771,1.06e-06,0.000484811,degree-1,peel0,pagerank-1,diversity0,betweenness-1
-393,Lancel Lannister,12,9,1.234267866,0.000520242,0.001715529,degree0,peel0,pagerank0,diversity-1,betweenness1
 394,Lanna (Happy Port),1,1,0.0,0.0,0.000248134,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-395,Lark,6,5,1.329661349,0.002588977,0.000761442,degree-1,peel1,pagerank0,diversity0,betweenness1
 396,Larraq,1,1,0.0,0.0,0.00022139,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-397,Leaf,2,2,0.693147181,0.0,0.000286834,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-398,Leathers,5,3,1.33217904,2.27e-05,0.000717899,degree-1,peel0,pagerank0,diversity0,betweenness-1
-399,Lem,15,7,1.859428815,0.005932663,0.002317313,degree0,peel-1,pagerank1,diversity0,betweenness-1
-400,Lemore,7,6,0.955699891,2.04e-06,0.000825797,degree-1,peel2,pagerank0,diversity-1,betweenness-1
 401,Leo Lefford,1,1,0.0,0.0,0.000227292,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-402,Leo Tyrell,5,4,0.500402424,0.005207007,0.001036994,degree-1,peel1,pagerank1,diversity-2,betweenness0
-403,Leobald Tallhart,3,3,1.098612289,2.05e-05,0.000399025,degree-1,peel0,pagerank-1,diversity0,betweenness-1
-404,Leona Woolfield,2,2,0.693147181,0.0,0.00029457,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
 405,Leonette Fossoway,1,1,0.0,0.0,0.000232809,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-406,Lewyn Martell,4,2,1.039720771,0.001318426,0.000813275,degree-1,peel-1,pagerank2,diversity0,betweenness-1
 407,Lewys Piper,1,1,0.0,0.0,0.000220526,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-408,Lollys Stokeworth,7,6,1.549826046,1.17e-05,0.000771718,degree-1,peel2,pagerank0,diversity1,betweenness0
-409,Lommy Greenhands,6,5,1.560710409,1.11e-05,0.001369274,degree-1,peel1,pagerank2,diversity0,betweenness-1
 410,Longwater Pyke,1,1,0.0,0.0,0.000267817,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-411,Loras Tyrell,28,13,1.558057246,0.001442737,0.003420664,degree1,peel1,pagerank-1,diversity0,betweenness0
 412,Lorent Caswell,1,1,0.0,0.0,0.000218098,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-413,Lorren,8,3,1.255482325,0.003753628,0.00145556,degree0,peel-3,pagerank0,diversity0,betweenness0
-414,Lothar Frey,11,7,1.893788232,0.000277633,0.000873458,degree0,peel-1,pagerank-1,diversity1,betweenness-1
-415,Lothor Brune,5,4,1.33217904,4.54e-05,0.000544936,degree-1,peel1,pagerank-1,diversity0,betweenness-1
-416,Lucas Codd,2,1,0.693147181,0.002515723,0.000791631,degree-1,peel-2,pagerank2,diversity0,betweenness-1
 417,Lucifer Long,1,1,0.0,0.0,0.00027739,degree-1,peel-2,pagerank-1,diversity0,betweenness0
 418,Luton,1,1,0.0,0.0,0.000279018,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-419,Luwin,22,10,1.957615479,0.003151405,0.004179481,degree1,peel0,pagerank1,diversity-1,betweenness0
 420,Lyanna Mormont,1,1,0.0,0.0,0.000221924,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-421,Lyanna Stark,5,5,0.950270539,1.15e-05,0.000583469,degree-1,peel1,pagerank-1,diversity-1,betweenness-1
-422,Lyle Crakehall,5,4,1.33217904,9.04e-06,0.000497301,degree-1,peel1,pagerank-1,diversity0,betweenness-1
-423,Lyn Corbray,4,3,1.386294361,2.1e-05,0.000497425,degree-1,peel0,pagerank-1,diversity1,betweenness-1
 424,Lynesse Hightower,1,1,0.0,0.0,0.000223827,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-425,Lyonel Corbray,2,2,0.693147181,0.0,0.000317103,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-426,Lysa Arryn,24,12,1.710642901,0.006064574,0.003950672,degree1,peel0,pagerank0,diversity-2,betweenness0
 427,Lysono Maar,1,1,0.0,0.0,0.000223827,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-428,Mace Tyrell,23,12,1.893275591,0.005881332,0.002386206,degree1,peel0,pagerank-1,diversity1,betweenness-1
 429,Mad Huntsman,1,1,0.0,0.0,0.000231597,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-430,Maddy,5,4,0.950270539,3.67e-05,0.000684088,degree-1,peel1,pagerank-1,diversity-1,betweenness0
-431,Maege Mormont,5,4,1.054920168,4.01e-06,0.000540965,degree-1,peel1,pagerank-1,diversity-1,betweenness-1
-432,Maegor I Targaryen,6,5,1.242453325,0.00253038,0.000582325,degree-1,peel1,pagerank-1,diversity0,betweenness2
 433,Maekar I Targaryen,1,1,0.0,0.0,0.000222095,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-434,Mag Mar Tun Doh Weg,2,2,0.693147181,0.0,0.000295555,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-435,Maggy,2,2,0.693147181,0.0,0.000346189,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-436,Malaquo Maegyr,1,1,0.0,0.0,0.000660519,degree-1,peel-2,pagerank2,diversity-2,betweenness0
-437,Malegorn,4,3,1.039720771,0.000350894,0.00054851,degree-1,peel0,pagerank0,diversity-1,betweenness-1
 438,Mallador Locke,1,1,0.0,0.0,0.000258368,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-439,Mance Rayder,33,8,1.931601912,0.013605084,0.00514145,degree2,peel-2,pagerank-1,diversity-1,betweenness0
-440,Mandon Moore,9,9,0.683738906,2.31e-05,0.000725772,degree0,peel0,pagerank-2,diversity-2,betweenness0
-441,Manfrey Martell,1,1,0.0,0.0,0.000521197,degree-1,peel-2,pagerank1,diversity-1,betweenness0
-442,Margaery Tyrell,30,12,1.995750869,0.004545928,0.004678732,degree1,peel0,pagerank1,diversity0,betweenness0
 443,Marghaz zo Loraq,1,1,0.0,0.0,0.000251769,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-444,Marillion,9,8,1.427061043,8.37e-05,0.000853962,degree0,peel0,pagerank-2,diversity1,betweenness0
-445,Mariya Darry,2,2,0.693147181,0.0,0.000305805,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
 446,Mark Mullendore,1,1,0.0,0.0,0.000215389,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-447,Marlon Manderly,2,2,0.693147181,0.0,0.000291112,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
 448,Maron Greyjoy,1,1,0.0,0.0,0.000217715,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-449,Marq Piper,8,7,1.073542846,0.000177945,0.000573616,degree0,peel-1,pagerank-2,diversity-2,betweenness0
-450,Marselen,2,2,0.693147181,0.0,0.000408268,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-451,Martyn Lannister,2,2,0.693147181,3.11e-05,0.000350362,degree-1,peel-1,pagerank-1,diversity0,betweenness0
 452,Martyn Rivers,1,1,0.0,0.0,0.000219491,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-453,Marwyn,3,3,0.636514168,0.000561925,0.00046376,degree-1,peel0,pagerank-1,diversity-2,betweenness4
-454,Marya Seaworth,2,2,0.693147181,0.0,0.000383786,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
 455,Masha Heddle,1,1,0.0,0.0,0.000240975,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-456,Mathis Rowan,8,6,1.494175138,0.002588277,0.00078388,degree0,peel-1,pagerank-1,diversity-1,betweenness1
 457,Matthar,1,1,0.0,0.0,0.00022145,degree-1,peel-2,pagerank-1,diversity0,betweenness0
 458,Matthos Seaworth,1,1,0.0,0.0,0.000229955,degree-1,peel-2,pagerank-1,diversity0,betweenness0
 459,Mebble,1,1,0.0,0.0,0.000234778,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-460,Meera Reed,11,8,1.414279065,0.000301138,0.002933076,degree0,peel0,pagerank1,diversity0,betweenness-2
-461,Megga Tyrell,4,4,1.039720771,0.0,0.000842091,degree-1,peel1,pagerank0,diversity-1,betweenness-1
-462,Melara Hetherspoon,4,2,1.039720771,0.002586857,0.000663734,degree-1,peel-1,pagerank1,diversity0,betweenness0
-463,Meldred Merlyn,2,2,0.0,0.0,0.000445556,degree-1,peel-1,pagerank0,diversity-3,betweenness0
-464,Melisandre,23,8,2.088091943,0.006490368,0.004323498,degree1,peel-1,pagerank0,diversity1,betweenness0
-465,Mellei,2,2,0.693147181,0.0,0.000512378,degree-1,peel-1,pagerank0,diversity0,betweenness-1
 466,Meralyn,1,1,0.0,0.0,0.000285541,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-467,Meribald,5,3,1.054920168,1.66e-05,0.00087892,degree-1,peel0,pagerank1,diversity-1,betweenness-1
-468,Meris,6,4,1.242453325,0.003065646,0.001177615,degree-1,peel1,pagerank1,diversity0,betweenness1
-469,Mero,4,3,1.386294361,0.002515723,0.000646844,degree-1,peel0,pagerank0,diversity1,betweenness1
-470,Merrett Frey,2,2,0.693147181,8.77e-06,0.000262151,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
 471,Merrit,1,1,0.0,0.0,0.000224475,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-472,Meryn Trant,21,12,1.153741943,0.00094058,0.002872904,degree1,peel0,pagerank-1,diversity-1,betweenness-1
-473,Mezzara,2,2,0.693147181,0.0,0.000332411,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-474,Mikken,5,3,1.33217904,0.000236052,0.00058564,degree-1,peel0,pagerank0,diversity0,betweenness-1
-475,Miklaz,3,2,1.098612289,0.002515723,0.000655193,degree-1,peel-1,pagerank1,diversity0,betweenness0
-476,Mirri Maz Duur,6,5,1.011404265,9.63e-06,0.000987082,degree-1,peel1,pagerank0,diversity-1,betweenness-1
-477,Missandei,9,8,1.002718265,9.63e-05,0.001586885,degree0,peel0,pagerank-1,diversity-1,betweenness0
-478,Moelle,3,3,0.636514168,0.0,0.00063156,degree-1,peel0,pagerank0,diversity-2,betweenness0
-479,Mollander,4,4,0.0,3.96e-06,0.000934248,degree-1,peel1,pagerank0,diversity-3,betweenness1
-480,Monford Velaryon,3,2,1.098612289,0.002515723,0.00063116,degree-1,peel-1,pagerank1,diversity0,betweenness0
-481,Moon Boy,4,4,1.386294361,9.3e-06,0.000526634,degree-1,peel1,pagerank-1,diversity0,betweenness-1
-482,Moqorro,5,4,1.609437912,0.002409717,0.001073681,degree-1,peel1,pagerank1,diversity1,betweenness0
-483,Mord,1,1,0.0,0.0,0.000382691,degree-1,peel-2,pagerank0,diversity0,betweenness0
-484,Mordane,11,10,1.033562054,0.000477052,0.001621421,degree0,peel1,pagerank-1,diversity-2,betweenness0
 485,Moreo Tumitis,1,1,0.0,0.0,0.000219962,degree-1,peel-2,pagerank-1,diversity0,betweenness0
 486,Morgo,1,1,0.0,0.0,0.000227292,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-487,Morra,2,2,0.693147181,0.0,0.000512378,degree-1,peel-1,pagerank0,diversity0,betweenness-1
-488,Morrec,2,2,0.693147181,0.0,0.000397546,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-489,Mors Umber,4,4,0.562335145,0.000238248,0.000518088,degree-1,peel1,pagerank-1,diversity-2,betweenness0
-490,Mully,9,6,1.522955068,3.74e-05,0.00086889,degree0,peel-1,pagerank-1,diversity0,betweenness-2
 491,Munda,1,1,0.0,0.0,0.000239738,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-492,Murch,1,1,0.0,0.0,0.000745047,degree-1,peel-2,pagerank2,diversity-2,betweenness0
-493,Murenmure,2,2,0.693147181,0.0,0.000513042,degree-1,peel-1,pagerank0,diversity0,betweenness-1
-494,Mya Stone,5,4,1.33217904,0.000108766,0.000739087,degree-1,peel1,pagerank0,diversity0,betweenness-1
-495,Mycah,5,5,0.0,0.0,0.000805042,degree-1,peel1,pagerank0,diversity-3,betweenness-1
 496,Mychel Redfort,1,1,0.0,0.0,0.000219962,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-497,Myles Toyne,2,2,0.693147181,0.0,0.000376496,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-498,Myranda Royce,3,3,1.098612289,2.21e-05,0.000383831,degree-1,peel0,pagerank-1,diversity0,betweenness-1
-499,Myrcella Baratheon,22,11,1.790313567,0.020192887,0.003252601,degree1,peel0,pagerank0,diversity-1,betweenness0
 500,Nage,1,1,0.0,0.0,0.000243613,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-501,Nan,8,6,1.732867951,0.000714461,0.001172386,degree0,peel-1,pagerank-1,diversity0,betweenness-1
-502,Narbert,3,3,0.636514168,0.0,0.000445231,degree-1,peel0,pagerank-1,diversity-2,betweenness-1
-503,Narbert Grandison,6,3,1.242453325,0.000812272,0.00068425,degree-1,peel0,pagerank0,diversity0,betweenness1
-504,Nestor Royce,7,6,1.475076311,7.73e-05,0.000805248,degree-1,peel2,pagerank0,diversity0,betweenness-1
-505,Nurse,4,3,1.386294361,1.29e-05,0.000536213,degree-1,peel0,pagerank0,diversity1,betweenness-1
-506,Nute,4,3,1.039720771,8.98e-06,0.000926631,degree-1,peel0,pagerank1,diversity-1,betweenness-1
-507,Nyessos Vhassar,2,1,0.693147181,0.002515723,0.000789027,degree-1,peel-2,pagerank2,diversity0,betweenness-1
-508,Nymeria Sand,4,4,1.039720771,1.81e-05,0.000856141,degree-1,peel1,pagerank0,diversity-1,betweenness-1
-509,Obara Sand,6,4,1.329661349,2.49e-05,0.001299752,degree-1,peel1,pagerank2,diversity-2,betweenness0
-510,Oberyn Martell,20,10,1.941927724,0.009803338,0.002351696,degree1,peel0,pagerank-1,diversity1,betweenness0
-511,Ogo,3,2,1.098612289,0.002515723,0.00074093,degree-1,peel-1,pagerank1,diversity0,betweenness0
 512,Old Bill Bone,1,1,0.0,0.0,0.000233822,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-513,Olenna Redwyne,9,8,0.848685558,0.000292522,0.000756117,degree0,peel0,pagerank-2,diversity-1,betweenness0
-514,Olyvar Frey,2,2,0.693147181,0.0,0.000372516,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-515,Orell,2,2,0.693147181,0.0,0.00029155,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-516,Orton Merryweather,10,8,1.279854226,8.14e-05,0.000620349,degree0,peel0,pagerank-2,diversity0,betweenness-1
-517,Osfryd Kettleblack,3,3,1.098612289,0.0,0.000420289,degree-1,peel0,pagerank-1,diversity0,betweenness-1
-518,Osha,9,8,1.522955068,0.0002196,0.001322379,degree0,peel0,pagerank-1,diversity0,betweenness-1
-519,Osmund Kettleblack,18,11,1.873510521,0.000670672,0.002282676,degree0,peel1,pagerank0,diversity0,betweenness-1
-520,Osney Kettleblack,11,7,2.019814992,0.000488439,0.001026739,degree0,peel-1,pagerank-1,diversity1,betweenness-1
-521,Oswell Kettleblack,2,2,0.0,0.0,0.000272067,degree-1,peel-1,pagerank-1,diversity-3,betweenness-1
-522,Oswell Whent,3,2,0.636514168,0.001200188,0.000680536,degree-1,peel-1,pagerank1,diversity-1,betweenness-1
-523,Othell Yarwyck,11,8,1.159588814,7.31e-05,0.001165994,degree0,peel0,pagerank-1,diversity-1,betweenness-1
 524,Othor,1,1,0.0,0.0,0.000243455,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-525,Ottyn Wythers,4,4,1.039720771,1.79e-05,0.000391081,degree-1,peel1,pagerank-2,diversity0,betweenness0
-526,Owen,10,6,1.470808476,0.000804616,0.000895542,degree0,peel-1,pagerank-1,diversity-1,betweenness-1
 527,Owen Merryweather,1,1,0.0,0.0,0.000228186,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-528,Oznak zo Pahl,2,2,0.693147181,0.0,0.000327679,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-529,Palla,2,2,0.693147181,0.0,0.0002796,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-530,Patchface,4,4,0.562335145,0.0,0.000489713,degree-1,peel1,pagerank-1,diversity-2,betweenness-1
-531,Pate (novice),7,4,0.682908105,0.010041506,0.002498661,degree-1,peel1,pagerank6,diversity0,betweenness0
 532,Pate (Old),1,1,0.0,0.0,0.000231597,degree-1,peel-2,pagerank-1,diversity0,betweenness0
 533,Pate (whipping boy),1,1,0.0,0.0,0.000223331,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-534,Patrek of Kings Mountain,4,3,1.039720771,1.06e-06,0.000480282,degree-1,peel0,pagerank-1,diversity0,betweenness-1
-535,Paxter Redwyne,6,6,1.329661349,0.000772814,0.000604391,degree-1,peel2,pagerank-1,diversity0,betweenness1
-536,Penny,7,4,1.475076311,0.000279064,0.001225714,degree-1,peel1,pagerank1,diversity0,betweenness-1
-537,Perwyn Frey,2,2,0.693147181,0.0,0.000324745,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-538,Petyr Baelish,47,13,1.984776869,0.025898583,0.008391054,degree3,peel0,pagerank0,diversity0,betweenness0
-539,Petyr Frey,2,2,0.693147181,1.06e-06,0.000294765,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-540,Pia,4,3,1.039720771,0.000130851,0.000463067,degree-1,peel0,pagerank-1,diversity0,betweenness0
-541,Podrick Payne,11,6,1.666332585,0.003390512,0.002239123,degree0,peel-1,pagerank0,diversity0,betweenness0
-542,Polliver,14,12,0.89820534,8.96e-05,0.001543562,degree0,peel2,pagerank-1,diversity0,betweenness0
-543,Pono,4,4,1.039720771,4.84e-05,0.000349678,degree-1,peel1,pagerank-2,diversity0,betweenness1
-544,Porridge,3,3,1.098612289,0.0,0.000402686,degree-1,peel0,pagerank-1,diversity0,betweenness-1
 545,Porther,1,1,0.0,0.0,0.000227473,degree-1,peel-2,pagerank-1,diversity0,betweenness0
 546,Poxy Tym,1,1,0.0,0.0,0.000216665,degree-1,peel-2,pagerank-1,diversity0,betweenness0
 547,Praed,1,1,0.0,0.0,0.000220809,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-548,Prendahl na Ghezn,2,2,0.693147181,0.0,0.000518784,degree-1,peel-1,pagerank0,diversity0,betweenness-1
-549,Preston Greenfield,2,2,0.0,0.0,0.000244527,degree-1,peel-1,pagerank-1,diversity-3,betweenness-1
-550,Puckens,2,1,0.693147181,0.002515723,0.000590127,degree-1,peel-2,pagerank1,diversity1,betweenness-1
-551,Pyat Pree,2,2,0.693147181,0.0,0.000503741,degree-1,peel-1,pagerank0,diversity0,betweenness-1
-552,Pycelle,27,13,1.591968682,0.007406401,0.003931511,degree1,peel1,pagerank0,diversity0,betweenness0
-553,Pyg,4,4,1.039720771,2.85e-06,0.000579416,degree-1,peel1,pagerank-1,diversity-1,betweenness-1
-554,Pylos,6,5,1.011404265,3.91e-06,0.001241409,degree-1,peel1,pagerank1,diversity-1,betweenness-1
-555,Pypar,16,8,1.244016696,0.000234447,0.002813027,degree0,peel0,pagerank1,diversity-1,betweenness-1
-556,Qarl the Maid,3,3,0.636514168,0.0,0.000617043,degree-1,peel0,pagerank0,diversity-2,betweenness0
-557,Qavo Nogarys,3,3,1.098612289,2.88e-05,0.000362687,degree-1,peel0,pagerank-1,diversity0,betweenness-1
-558,Qezza,5,3,1.33217904,0.000106433,0.000796912,degree-1,peel0,pagerank1,diversity0,betweenness-1
-559,Qhorin Halfhand,14,6,1.673118363,0.002814466,0.00237447,degree0,peel-1,pagerank1,diversity-1,betweenness0
-560,Qotho,7,5,1.277034259,2.97e-05,0.001078742,degree-1,peel1,pagerank1,diversity0,betweenness-1
 561,Quaithe,1,1,0.0,0.0,0.000318185,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-562,Quaro,5,5,0.950270539,1.43e-06,0.000445212,degree-1,peel1,pagerank-1,diversity-1,betweenness-1
-563,Quellon Greyjoy,2,2,0.0,0.0,0.000366511,degree-1,peel-1,pagerank-1,diversity-3,betweenness-1
-564,Quentyn Martell,19,7,1.721954449,0.011349668,0.00437337,degree0,peel-1,pagerank3,diversity0,betweenness0
-565,Quhuru Mo,2,2,0.693147181,0.0,0.000311279,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-566,Quill,1,1,0.0,0.0,0.000370303,degree-1,peel-2,pagerank0,diversity0,betweenness0
-567,Qyburn,18,10,1.719477814,0.001700923,0.001629493,degree0,peel1,pagerank-1,diversity0,betweenness0
-568,Rafford,13,12,0.690185676,4.65e-05,0.00171038,degree0,peel2,pagerank0,diversity0,betweenness0
 569,Ragwyle,1,1,0.0,0.0,0.000224916,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-570,Rakharo,10,8,0.801818553,3.22e-05,0.001214878,degree0,peel0,pagerank-1,diversity-2,betweenness-1
-571,Ralf (Limper),1,1,0.0,0.0,0.000373649,degree-1,peel-2,pagerank0,diversity0,betweenness0
-572,Ralf Stonehouse,2,2,0.693147181,0.0,0.00036651,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-573,Ramsay Snow,23,9,2.002058727,0.016712732,0.004330747,degree1,peel-1,pagerank0,diversity0,betweenness0
-574,Randyll Tarly,13,7,2.031759219,0.004472798,0.001229287,degree0,peel-1,pagerank-1,diversity1,betweenness1
-575,Rast,6,5,1.242453325,2.33e-05,0.000516994,degree-1,peel1,pagerank-1,diversity0,betweenness-1
-576,Rattleshirt,11,6,1.294545166,8.27e-05,0.001746136,degree0,peel-1,pagerank0,diversity-2,betweenness0
 577,Ravella Swann,1,1,0.0,0.0,0.000263964,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-578,Raymun Darry,2,2,0.0,0.0,0.000299085,degree-1,peel-1,pagerank-1,diversity-3,betweenness-1
-579,Raymun Redbeard,1,1,0.0,0.0,0.000364995,degree-1,peel-2,pagerank0,diversity0,betweenness0
-580,Raynald Westerling,3,2,0.636514168,3.21e-05,0.000432595,degree-1,peel-1,pagerank0,diversity0,betweenness-1
-581,Raynard,2,1,0.693147181,0.002515723,0.000640699,degree-1,peel-2,pagerank1,diversity1,betweenness-1
-582,Red Oarsman,3,2,0.636514168,0.00502511,0.000733144,degree-1,peel-1,pagerank1,diversity-1,betweenness1
-583,Reek,2,2,0.693147181,0.0,0.000277816,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-584,Renly Baratheon,38,13,1.877240061,0.018923484,0.007433869,degree2,peel0,pagerank1,diversity-1,betweenness0
-585,Rennifer Longwaters,2,1,0.693147181,0.002515723,0.000596489,degree-1,peel-2,pagerank1,diversity1,betweenness-1
-586,Reznak mo Reznak,5,5,1.33217904,0.0,0.000782543,degree-1,peel1,pagerank0,diversity0,betweenness-1
-587,Rhaegar Frey,2,2,0.693147181,0.000632098,0.000413198,degree-1,peel-1,pagerank-1,diversity0,betweenness3
-588,Rhaegar Targaryen,18,9,2.0330002,0.007841725,0.002563142,degree0,peel0,pagerank1,diversity1,betweenness0
 589,Rhaegel Targaryen,1,1,0.0,0.0,0.000247416,degree-1,peel-2,pagerank-1,diversity0,betweenness0
 590,Rhaego,1,1,0.0,0.0,0.00024899,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-591,Rhaella Targaryen,2,2,0.693147181,0.0,0.00025335,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-592,Rhaenys Targaryen,2,2,0.693147181,0.0,0.000460117,degree-1,peel-1,pagerank0,diversity0,betweenness-1
 593,Rhaenys Targaryen (daughter of Rhaegar),1,1,0.0,0.0,0.000240767,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-594,Ricasso,2,1,0.693147181,0.002515723,0.000683305,degree-1,peel-2,pagerank2,diversity0,betweenness-1
-595,Richard Horpe,2,2,0.693147181,0.0,0.00037009,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-596,Rickard Karstark,12,8,1.676234939,0.000916443,0.001254606,degree0,peel0,pagerank-1,diversity0,betweenness-1
-597,Rickard Stark,2,2,0.693147181,6.48e-06,0.000263685,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-598,Rickon Stark,17,10,1.466907105,0.001981032,0.003680916,degree0,peel1,pagerank2,diversity0,betweenness0
-599,Robar Royce,3,3,0.636514168,5.02e-05,0.000368354,degree-1,peel0,pagerank-1,diversity-2,betweenness0
-600,Robb Stark,74,13,2.380112478,0.066468427,0.017344651,degree5,peel0,pagerank0,diversity0,betweenness0
-601,Robert Arryn,20,8,1.877524281,0.011219033,0.002562505,degree1,peel-1,pagerank-2,diversity0,betweenness0
-602,Robert Baratheon,65,13,2.104875124,0.078227691,0.015677734,degree4,peel0,pagerank-1,diversity0,betweenness0
-603,Robert Strong,4,4,1.386294361,3.06e-05,0.000344689,degree-1,peel1,pagerank-2,diversity1,betweenness-1
-604,Robett Glover,7,5,1.549826046,0.000500339,0.000580181,degree-1,peel1,pagerank-1,diversity1,betweenness0
-605,Robin Flint,3,3,1.098612289,0.0,0.000333527,degree-1,peel0,pagerank-1,diversity0,betweenness-1
-606,Robin Ryger,2,2,0.0,0.0,0.000316213,degree-1,peel-1,pagerank-1,diversity-3,betweenness-1
-607,Rodrik Cassel,30,12,2.051787046,0.011062043,0.00339896,degree1,peel0,pagerank0,diversity0,betweenness1
-608,Rodrik Harlaw,7,3,1.004242473,0.002132001,0.001142976,degree-1,peel0,pagerank2,diversity-1,betweenness0
-609,Rodrik Sparr,2,2,0.693147181,0.0,0.000467438,degree-1,peel-1,pagerank0,diversity0,betweenness-1
-610,Roger Ryswell,2,2,0.693147181,0.0,0.000321248,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
 611,Rolfe the Dwarf,1,1,0.0,0.0,0.000250159,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-612,Rollam Westerling,2,2,0.693147181,0.0,0.000298771,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-613,Rolly Duckfield,8,6,1.213007566,1.35e-05,0.001381021,degree0,peel-1,pagerank-1,diversity-1,betweenness-1
 614,Rolph Spicer,1,1,0.0,0.0,0.00024019,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-615,Ronnet Connington,2,2,0.693147181,0.0,0.000260535,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-616,Roone,4,4,0.0,7.92e-07,0.000920016,degree-1,peel1,pagerank0,diversity-3,betweenness-1
-617,Roose Bolton,28,12,1.98950834,0.005556184,0.003105126,degree1,peel0,pagerank0,diversity0,betweenness-1
 618,Roose Ryswell,1,1,0.0,0.0,0.000221924,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-619,Rorge,9,5,1.522955068,0.000417866,0.001253026,degree0,peel-2,pagerank-1,diversity0,betweenness-1
-620,Rory,2,2,0.693147181,0.0,0.000326228,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-621,Rosey,1,1,0.0,0.0,0.00059763,degree-1,peel-2,pagerank1,diversity-1,betweenness0
-622,Roslin Frey,5,5,1.054920168,0.0,0.000672614,degree-1,peel1,pagerank-1,diversity-1,betweenness-1
 623,Rossart,1,1,0.0,0.0,0.000241434,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-624,Rowan,5,4,1.609437912,5.76e-05,0.000628659,degree-1,peel1,pagerank-1,diversity1,betweenness-1
-625,Rugen,1,1,0.0,0.0,0.000442313,degree-1,peel-2,pagerank0,diversity0,betweenness0
 626,Rus,1,1,0.0,0.0,0.000315399,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-627,Ryk,4,4,0.562335145,0.0,0.000531352,degree-1,peel1,pagerank-1,diversity-2,betweenness-1
-628,Ryman Frey,12,6,1.704551445,0.001020753,0.001127589,degree0,peel-1,pagerank-1,diversity0,betweenness0
-629,Salladhor Saan,5,4,1.609437912,9.54e-06,0.001188731,degree-1,peel1,pagerank1,diversity1,betweenness-1
-630,Sallor,2,2,0.693147181,0.0,0.000518784,degree-1,peel-1,pagerank0,diversity0,betweenness-1
-631,Samwell Tarly,44,8,1.958122578,0.041466204,0.011871965,degree2,peel-2,pagerank1,diversity0,betweenness0
-632,Sandor Clegane,36,13,1.849112878,0.008828141,0.005438164,degree2,peel0,pagerank-1,diversity-1,betweenness0
-633,Sansa Stark,75,13,2.323459966,0.048690982,0.016291184,degree5,peel0,pagerank-1,diversity0,betweenness0
 634,Sarella Sand,1,1,0.0,0.0,0.000246374,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-635,Satin,13,6,1.844621476,0.00294103,0.001724603,degree0,peel-1,pagerank0,diversity1,betweenness-1
 636,Sawane Botley,1,1,0.0,0.0,0.000260678,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-637,Scar,2,2,0.693147181,0.0,0.00032711,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-638,Scolera,3,3,0.636514168,0.0,0.000644208,degree-1,peel0,pagerank0,diversity-2,betweenness0
 639,Selwyn Tarth,1,1,0.0,0.0,0.000236456,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-640,Selyse Florent,19,7,1.909660422,0.005670667,0.003097164,degree0,peel-1,pagerank2,diversity0,betweenness0
-641,Senelle,2,2,0.693147181,0.0,0.00029625,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
 642,Shadd,1,1,0.0,0.0,0.000262648,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-643,Shadrich,2,2,0.693147181,0.000132657,0.000322764,degree-1,peel-1,pagerank-1,diversity0,betweenness0
-644,Shae,13,7,1.524707393,0.000826092,0.001752541,degree0,peel-1,pagerank0,diversity-1,betweenness0
-645,Shagga,7,4,1.549826046,0.005057665,0.001493422,degree-1,peel1,pagerank2,diversity0,betweenness0
-646,Shagwell,6,4,1.011404265,0.000199782,0.000772709,degree-1,peel1,pagerank0,diversity-1,betweenness-1
-647,Sharna,4,4,0.562335145,1.58e-06,0.000380371,degree-1,peel1,pagerank-2,diversity-1,betweenness-1
-648,Shireen Baratheon,13,7,1.884871334,0.003259286,0.001234029,degree0,peel-1,pagerank-1,diversity1,betweenness0
 649,Shitmouth,1,1,0.0,0.0,0.000220526,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-650,Shortear,1,1,0.0,0.0,0.00043965,degree-1,peel-2,pagerank0,diversity0,betweenness0
 651,Shrouded Lord,1,1,0.0,0.0,0.000227292,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-652,Sigfryd Harlaw,2,2,0.0,0.0,0.000442543,degree-1,peel-1,pagerank0,diversity-3,betweenness0
-653,Sigorn,4,3,1.386294361,5.42e-05,0.000410478,degree-1,peel0,pagerank-1,diversity1,betweenness-1
-654,Simon Toyne,1,1,0.0,0.0,0.000453171,degree-1,peel-2,pagerank0,diversity0,betweenness0
-655,Skahaz mo Kandaq,12,8,1.075139324,5.94e-05,0.001829313,degree0,peel0,pagerank0,diversity-1,betweenness-1
-656,Skinner,5,4,1.33217904,0.002515723,0.000887165,degree-1,peel1,pagerank0,diversity0,betweenness1
-657,Small Paul,6,5,0.636514168,1.19e-05,0.000776101,degree-1,peel1,pagerank0,diversity-2,betweenness1
-658,Smiling Knight,2,1,0.693147181,0.002515723,0.000724057,degree-1,peel-2,pagerank2,diversity0,betweenness-1
 659,Softfoot,1,1,0.0,0.0,0.00025316,degree-1,peel-2,pagerank-1,diversity0,betweenness0
 660,Soren Shieldbreaker,1,1,0.0,0.0,0.00022145,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-661,Sour Alyn,6,4,1.329661349,1.41e-05,0.000979725,degree-1,peel1,pagerank0,diversity0,betweenness-1
-662,Spare Boot,6,5,1.011404265,1.27e-06,0.000527414,degree-1,peel1,pagerank-1,diversity-1,betweenness-1
-663,Spotted Cat,6,4,1.242453325,0.003356216,0.000919978,degree-1,peel1,pagerank0,diversity0,betweenness1
-664,Squint,3,2,1.098612289,7.39e-06,0.000515248,degree-1,peel-1,pagerank0,diversity1,betweenness-1
-665,Squirrel,4,4,1.386294361,9.19e-06,0.000486326,degree-1,peel1,pagerank-1,diversity0,betweenness-1
-666,Stafford Lannister,4,4,0.562335145,4.89e-05,0.000332016,degree-1,peel1,pagerank-2,diversity-1,betweenness1
-667,Stannis Baratheon,89,13,2.399455178,0.110139553,0.018051671,degree6,peel0,pagerank-1,diversity0,betweenness0
-668,Steelskin,3,3,1.098612289,0.0,0.000324408,degree-1,peel0,pagerank-1,diversity0,betweenness-1
-669,Steffon Baratheon,2,2,0.0,0.0,0.00025158,degree-1,peel-1,pagerank-1,diversity-3,betweenness-1
-670,Steffon Varner,1,1,0.0,0.0,0.000484995,degree-1,peel-2,pagerank0,diversity0,betweenness0
-671,Stevron Frey,5,4,1.33217904,2.64e-06,0.000435193,degree-1,peel1,pagerank-1,diversity0,betweenness-1
-672,Stiv,2,2,0.693147181,0.0,0.000257121,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-673,Stonesnake,4,3,1.039720771,2.11e-06,0.000514585,degree-1,peel0,pagerank-1,diversity0,betweenness-1
-674,Stygg,3,2,1.098612289,4.22e-06,0.000497838,degree-1,peel-1,pagerank0,diversity1,betweenness-2
-675,Styr,8,6,1.073542846,2.12e-05,0.001405197,degree0,peel-1,pagerank-1,diversity-2,betweenness-1
-676,Sweets,3,3,1.098612289,0.0,0.000393154,degree-1,peel0,pagerank-1,diversity0,betweenness-1
-677,Sybell Spicer,6,4,1.329661349,0.002361903,0.000603267,degree-1,peel1,pagerank-1,diversity0,betweenness2
-678,Sybelle Glover,2,2,0.693147181,1.81e-05,0.00037011,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-679,Sylva Santagar,5,5,0.950270539,4.1e-05,0.000756735,degree-1,peel1,pagerank0,diversity-1,betweenness-1
-680,Symon Silver Tongue,3,3,1.098612289,0.0,0.000325363,degree-1,peel0,pagerank-1,diversity0,betweenness-1
-681,Symon Stripeback,2,2,0.693147181,0.0,0.00043394,degree-1,peel-1,pagerank0,diversity0,betweenness-1
-682,Symond Templeton,5,4,0.500402424,3.78e-05,0.000651893,degree-1,peel1,pagerank-1,diversity-2,betweenness-1
-683,Syrio Forel,4,4,1.039720771,9.94e-06,0.00063575,degree-1,peel1,pagerank-1,diversity-1,betweenness-1
-684,Taena of Myr,12,8,1.676234939,0.000492062,0.001215846,degree0,peel0,pagerank-1,diversity0,betweenness-1
-685,Talbert Serry,1,1,0.0,0.0,0.000453024,degree-1,peel-2,pagerank0,diversity0,betweenness0
-686,Talea,2,2,0.693147181,0.0,0.000355607,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-687,Tallad,6,4,1.242453325,0.000844655,0.000546731,degree-1,peel1,pagerank-1,diversity0,betweenness0
-688,Tanda Stokeworth,7,6,1.475076311,2.31e-05,0.000707311,degree-1,peel2,pagerank-1,diversity1,betweenness0
-689,Tansy,6,6,1.560710409,0.000190475,0.000467736,degree-1,peel2,pagerank-2,diversity1,betweenness0
-690,Tarber,1,1,0.0,0.0,0.000474981,degree-1,peel-2,pagerank0,diversity0,betweenness0
-691,Tattered Prince,8,4,1.073542846,0.005877204,0.001280541,degree0,peel-2,pagerank-1,diversity-3,betweenness0
-692,Ternesio Terys,2,2,0.693147181,0.0,0.000330469,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-693,Terrance Lynderly,3,2,1.098612289,0.002515723,0.0008394,degree-1,peel-1,pagerank2,diversity0,betweenness0
 694,Theobald,1,1,0.0,0.0,0.000264075,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-695,Theomore,2,2,0.693147181,0.0,0.000270385,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-696,Theon Greyjoy,66,12,2.307204332,0.111283318,0.013877295,degree4,peel-2,pagerank0,diversity0,betweenness0
-697,Thistle,1,1,0.0,0.0,0.000406055,degree-1,peel-2,pagerank0,diversity0,betweenness0
-698,Thoren Smallwood,9,5,1.676987774,0.002560759,0.001151752,degree0,peel-2,pagerank-1,diversity1,betweenness-1
-699,Thoros of Myr,9,7,1.58109375,0.000502707,0.001517948,degree0,peel-1,pagerank0,diversity-1,betweenness-1
-700,Tickler,12,12,0.679193266,0.0,0.001448483,degree0,peel2,pagerank-1,diversity-2,betweenness0
-701,Timeon,4,4,0.693147181,2.86e-05,0.000555996,degree-1,peel1,pagerank-1,diversity-2,betweenness-1
-702,Timett,4,4,1.039720771,4.1e-06,0.000534884,degree-1,peel1,pagerank-1,diversity-1,betweenness-1
 703,Timoth,1,1,0.0,0.0,0.00023997,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-704,Tion Frey,1,1,0.0,0.0,0.00045581,degree-1,peel-2,pagerank0,diversity0,betweenness0
 705,Tobho Mott,1,1,0.0,0.0,0.000256745,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-706,Todder,4,4,1.039720771,0.0,0.000634487,degree-1,peel1,pagerank-1,diversity-1,betweenness-1
 707,Tom Barleycorn,1,1,0.0,0.0,0.000232452,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-708,Tom of Sevenstreams,9,6,1.58109375,0.000428688,0.001254658,degree0,peel-1,pagerank-1,diversity0,betweenness-1
-709,Tomard,7,5,1.153741943,0.000146291,0.000682677,degree-1,peel1,pagerank-1,diversity0,betweenness-1
-710,Tommen Baratheon,33,12,1.946915338,0.006251297,0.005535565,degree2,peel0,pagerank-1,diversity0,betweenness0
-711,Torbert,1,1,0.0,0.0,0.000500465,degree-1,peel-2,pagerank1,diversity-1,betweenness0
-712,Toregg,3,3,1.098612289,0.0,0.000423017,degree-1,peel0,pagerank-1,diversity0,betweenness-1
-713,Torghen Flint,1,1,0.0,0.0,0.000442975,degree-1,peel-2,pagerank0,diversity0,betweenness0
 714,Torgon Greyiron,1,1,0.0,0.0,0.000250159,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-715,Tormund,15,6,1.767009191,0.005149821,0.00271543,degree0,peel-1,pagerank1,diversity0,betweenness-1
-716,Torrhen Karstark,3,2,0.636514168,5.23e-05,0.000400213,degree-1,peel-1,pagerank-1,diversity0,betweenness0
-717,Torrhen Stark,2,2,0.693147181,0.0,0.000286139,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-718,Torwold Browntooth,1,1,0.0,0.0,0.000526955,degree-1,peel-2,pagerank1,diversity-1,betweenness0
 719,Tregar,1,1,0.0,0.0,0.000227473,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-720,Tristifer Botley,3,3,0.636514168,0.0,0.000803304,degree-1,peel0,pagerank1,diversity-2,betweenness0
 721,Tristifer IV Mudd,1,1,0.0,0.0,0.000219491,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-722,Trystane Martell,2,2,0.693147181,6.41e-05,0.000380437,degree-1,peel-1,pagerank-1,diversity0,betweenness0
-723,Tybero Istarion,3,3,1.098612289,0.0,0.000428926,degree-1,peel0,pagerank-1,diversity0,betweenness-1
-724,Tycho Nestoris,3,3,1.098612289,0.000534001,0.000460313,degree-1,peel0,pagerank-1,diversity0,betweenness4
-725,Tyene Sand,9,5,1.676987774,0.00267653,0.001293676,degree0,peel-2,pagerank-1,diversity1,betweenness0
-726,Tyrion Lannister,122,13,2.466368473,0.162191096,0.03284906,degree9,peel0,pagerank0,diversity0,betweenness0
-727,Tysha,4,4,0.562335145,1.5e-05,0.000425077,degree-1,peel1,pagerank-1,diversity-2,betweenness-1
-728,Tytos Blackwood,5,3,1.33217904,0.000104712,0.000478893,degree-1,peel0,pagerank-1,diversity1,betweenness0
-729,Tywin Lannister,48,13,2.026165337,0.020669858,0.007644692,degree3,peel0,pagerank-1,diversity0,betweenness0
 730,Ulf son of Umar,1,1,0.0,0.0,0.000260961,degree-1,peel-2,pagerank-1,diversity0,betweenness0
 731,Ulmer,1,1,0.0,0.0,0.00022145,degree-1,peel-2,pagerank-1,diversity0,betweenness0
 732,Umma,1,1,0.0,0.0,0.000253175,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-733,Unella,4,3,1.039720771,3.17e-06,0.000862194,degree-1,peel0,pagerank1,diversity-1,betweenness-1
 734,Urswyck,1,1,0.0,0.0,0.000306083,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-735,Urzen,2,2,0.693147181,0.0,0.000353687,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-736,Utherydes Wayn,3,3,0.636514168,0.0,0.000408889,degree-1,peel0,pagerank-1,diversity-2,betweenness-1
-737,Val,9,6,1.522955068,0.000812097,0.001651056,degree0,peel-1,pagerank0,diversity-1,betweenness0
-738,Varamyr,6,3,1.242453325,0.007537665,0.001419966,degree-1,peel0,pagerank4,diversity0,betweenness0
-739,Vardis Egen,6,4,1.560710409,0.000178986,0.000642911,degree-1,peel1,pagerank-1,diversity1,betweenness-1
-740,Vargo Hoat,10,6,1.33217904,0.000684034,0.001091866,degree0,peel-1,pagerank-1,diversity-1,betweenness-1
 741,Varly,1,1,0.0,0.0,0.000227473,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-742,Varys,34,13,1.876820905,0.009201379,0.006229212,degree2,peel0,pagerank0,diversity-1,betweenness0
-743,Vayon Poole,5,5,0.500402424,0.0,0.000468302,degree-1,peel1,pagerank-1,diversity-2,betweenness-1
-744,Victarion Greyjoy,24,5,1.856036234,0.036450737,0.006672877,degree1,peel-3,pagerank0,diversity0,betweenness0
-745,Visenya Targaryen,2,2,0.693147181,0.0,0.000424507,degree-1,peel-1,pagerank0,diversity0,betweenness-1
-746,Viserys Targaryen,14,8,1.809514256,0.002457249,0.002157296,degree0,peel0,pagerank0,diversity1,betweenness-1
-747,Vylarr,2,2,0.0,0.0,0.000273664,degree-1,peel-1,pagerank-1,diversity-3,betweenness-1
-748,Vyman,3,3,0.636514168,5.8e-06,0.000441609,degree-1,peel0,pagerank-1,diversity-2,betweenness-1
-749,Waif,2,2,0.693147181,0.0,0.000617169,degree-1,peel-1,pagerank1,diversity-1,betweenness-1
-750,Walda Frey (daughter of Merrett),2,2,0.0,0.0,0.000279242,degree-1,peel-1,pagerank-1,diversity-3,betweenness-1
-751,Walder Frey,19,10,1.986266518,0.006634157,0.002404955,degree0,peel1,pagerank0,diversity0,betweenness1
-752,Walder Frey (son of Jammos),3,3,0.636514168,0.0,0.000554463,degree-1,peel0,pagerank0,diversity-2,betweenness0
-753,Walder Frey (son of Merrett),8,6,1.320888343,0.000137213,0.00093115,degree0,peel-1,pagerank-1,diversity-1,betweenness-1
-754,Walder Rivers,5,4,1.33217904,6.15e-05,0.000539948,degree-1,peel1,pagerank-1,diversity0,betweenness-1
-755,Walgrave,2,1,0.693147181,0.002515723,0.000965371,degree-1,peel-2,pagerank3,diversity0,betweenness0
-756,Walton,5,4,1.33217904,0.002515723,0.000735855,degree-1,peel1,pagerank0,diversity0,betweenness1
 757,Watt,1,1,0.0,0.0,0.000224086,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-758,Waymar Royce,3,2,0.636514168,0.001593511,0.001092001,degree-1,peel-1,pagerank3,diversity0,betweenness0
-759,Weasel,4,4,1.039720771,5.39e-06,0.000500168,degree-1,peel1,pagerank-1,diversity-1,betweenness-1
-760,Weeper,5,5,0.950270539,6.34e-06,0.000490304,degree-1,peel1,pagerank-1,diversity-1,betweenness-1
-761,Weese,8,6,1.255482325,0.000107469,0.000723267,degree0,peel-1,pagerank-2,diversity0,betweenness-1
-762,Wendel Manderly,7,4,1.747868097,0.002579961,0.000814957,degree-1,peel1,pagerank0,diversity1,betweenness0
-763,Werlag,2,2,0.693147181,0.0,0.000360739,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
-764,Wex Pyke,5,3,1.609437912,0.002152951,0.00097706,degree-1,peel0,pagerank2,diversity0,betweenness-1
-765,Wick Whittlestick,2,2,0.693147181,0.0,0.000298864,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
 766,Widower,1,1,0.0,0.0,0.00022139,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-767,Will (prologue),2,2,0.0,0.0,0.001008893,degree-1,peel-1,pagerank3,diversity-1,betweenness0
-768,Willam Dustin,2,2,0.0,0.0,0.000254327,degree-1,peel-1,pagerank-1,diversity-3,betweenness-1
-769,Willas Tyrell,8,7,1.213007566,1.65e-05,0.000547806,degree0,peel-1,pagerank-2,diversity-1,betweenness0
-770,Willem Lannister,4,2,1.386294361,0.002623001,0.000784547,degree-1,peel-1,pagerank2,diversity1,betweenness0
 771,William Foxglove,1,1,0.0,0.0,0.000221924,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-772,Willis Wode,6,5,1.560710409,4.27e-05,0.000511857,degree-1,peel1,pagerank-1,diversity1,betweenness-1
-773,Willow Heddle,2,2,0.693147181,0.0,0.000284493,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
 774,Willow Witch eye,1,1,0.0,0.0,0.000248835,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-775,Woth,5,5,1.33217904,0.0,0.000396638,degree-1,peel1,pagerank-2,diversity0,betweenness-1
 776,Wulfe,1,1,0.0,0.0,0.000267817,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-777,Wun Weg Wun Dar Wun,4,3,1.039720771,9.66e-06,0.000582738,degree-1,peel0,pagerank0,diversity-1,betweenness-1
-778,Wyl (guard),4,3,1.039720771,0.000269369,0.000418843,degree-1,peel0,pagerank-1,diversity0,betweenness2
-779,Wylis Manderly,2,2,0.0,0.0,0.000248762,degree-1,peel-1,pagerank-1,diversity-3,betweenness-1
 780,Wylla,1,1,0.0,0.0,0.000217715,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-781,Wyman Manderly,17,8,1.905420043,0.009242797,0.002203488,degree0,peel0,pagerank0,diversity1,betweenness0
 782,Wynton Stout,1,1,0.0,0.0,0.000222095,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-783,Xaro Xhoan Daxos,3,2,1.098612289,4.48e-05,0.000741878,degree-1,peel-1,pagerank1,diversity0,betweenness-3
-784,Xhondo,2,2,0.693147181,0.0,0.000515215,degree-1,peel-1,pagerank0,diversity0,betweenness-1
-785,Yandry,7,6,0.955699891,2.04e-06,0.000967965,degree-1,peel2,pagerank1,diversity0,betweenness0
-786,Yellow Dick,3,3,1.098612289,0.0,0.000444504,degree-1,peel0,pagerank-1,diversity0,betweenness-1
-787,Yezzan zo Qaggaz,5,3,1.33217904,5.81e-06,0.000861203,degree-1,peel0,pagerank1,diversity0,betweenness-1
-788,Ygritte,13,6,1.73265872,0.002655179,0.002400135,degree0,peel-1,pagerank1,diversity0,betweenness-1
-789,Yohn Royce,8,4,1.494175138,0.001976174,0.000829984,degree0,peel-2,pagerank-1,diversity0,betweenness-1
-790,Yoren,18,8,1.875121856,0.00484853,0.001645924,degree0,peel0,pagerank-1,diversity1,betweenness0
 791,Yorko Terys,1,1,0.0,0.0,0.000253175,degree-1,peel-2,pagerank-1,diversity0,betweenness0
-792,Ysilla,6,6,0.867563228,0.0,0.000725298,degree-1,peel2,pagerank-1,diversity-2,betweenness0
 793,Yurkhaz zo Yunzak,1,1,0.0,0.0,0.000235622,degree-1,peel-2,pagerank-1,diversity0,betweenness0
 794,Zei,1,1,0.0,0.0,0.00022145,degree-1,peel-2,pagerank-1,diversity0,betweenness0
+36,Ardrian Celtigar,1,1,0.0,0.0,0.000432511,degree-1,peel-2,pagerank0,diversity0,betweenness0
+82,Black Balaq,1,1,0.0,0.0,0.000331797,degree-1,peel-2,pagerank0,diversity0,betweenness0
+102,Bump,1,1,0.0,0.0,0.00034388,degree-1,peel-2,pagerank0,diversity0,betweenness0
+136,Coratt,1,1,0.0,0.0,0.000336228,degree-1,peel-2,pagerank0,diversity0,betweenness0
+173,Dolf,1,1,0.0,0.0,0.000369739,degree-1,peel-2,pagerank0,diversity0,betweenness0
+181,Draqaz,1,1,0.0,0.0,0.000355612,degree-1,peel-2,pagerank0,diversity0,betweenness0
+216,Fogo,1,1,0.0,0.0,0.000328426,degree-1,peel-2,pagerank0,diversity0,betweenness0
+235,Gelmarr,1,1,0.0,0.0,0.000408841,degree-1,peel-2,pagerank0,diversity0,betweenness0
+239,Gerald Gower,1,1,0.0,0.0,0.000325153,degree-1,peel-2,pagerank0,diversity0,betweenness0
+241,Gerold Grafton,1,1,0.0,0.0,0.00036738,degree-1,peel-2,pagerank0,diversity0,betweenness0
+251,Gormon Tyrell,1,1,0.0,0.0,0.000377591,degree-1,peel-2,pagerank0,diversity0,betweenness0
+252,Gormond Goodbrother,1,1,0.0,0.0,0.00034079,degree-1,peel-2,pagerank0,diversity0,betweenness0
+276,Haggon,1,1,0.0,0.0,0.000437142,degree-1,peel-2,pagerank0,diversity0,betweenness0
+319,Hugh Hungerford,1,1,0.0,0.0,0.000424186,degree-1,peel-2,pagerank0,diversity0,betweenness0
+346,Jeyne Farman,1,1,0.0,0.0,0.00033889,degree-1,peel-2,pagerank0,diversity0,betweenness0
+483,Mord,1,1,0.0,0.0,0.000382691,degree-1,peel-2,pagerank0,diversity0,betweenness0
+566,Quill,1,1,0.0,0.0,0.000370303,degree-1,peel-2,pagerank0,diversity0,betweenness0
+571,Ralf (Limper),1,1,0.0,0.0,0.000373649,degree-1,peel-2,pagerank0,diversity0,betweenness0
+579,Raymun Redbeard,1,1,0.0,0.0,0.000364995,degree-1,peel-2,pagerank0,diversity0,betweenness0
+625,Rugen,1,1,0.0,0.0,0.000442313,degree-1,peel-2,pagerank0,diversity0,betweenness0
+650,Shortear,1,1,0.0,0.0,0.00043965,degree-1,peel-2,pagerank0,diversity0,betweenness0
+654,Simon Toyne,1,1,0.0,0.0,0.000453171,degree-1,peel-2,pagerank0,diversity0,betweenness0
+670,Steffon Varner,1,1,0.0,0.0,0.000484995,degree-1,peel-2,pagerank0,diversity0,betweenness0
+685,Talbert Serry,1,1,0.0,0.0,0.000453024,degree-1,peel-2,pagerank0,diversity0,betweenness0
+690,Tarber,1,1,0.0,0.0,0.000474981,degree-1,peel-2,pagerank0,diversity0,betweenness0
+697,Thistle,1,1,0.0,0.0,0.000406055,degree-1,peel-2,pagerank0,diversity0,betweenness0
+704,Tion Frey,1,1,0.0,0.0,0.00045581,degree-1,peel-2,pagerank0,diversity0,betweenness0
+713,Torghen Flint,1,1,0.0,0.0,0.000442975,degree-1,peel-2,pagerank0,diversity0,betweenness0
+201,Elys Waynwood,1,1,0.0,0.0,0.000504899,degree-1,peel-2,pagerank1,diversity-1,betweenness0
+305,Hobber Redwyne,1,1,0.0,0.0,0.00064311,degree-1,peel-2,pagerank1,diversity-1,betweenness0
+380,Kerwin,1,1,0.0,0.0,0.00050594,degree-1,peel-2,pagerank1,diversity-1,betweenness0
+389,Kurz,1,1,0.0,0.0,0.000570494,degree-1,peel-2,pagerank1,diversity-1,betweenness0
+441,Manfrey Martell,1,1,0.0,0.0,0.000521197,degree-1,peel-2,pagerank1,diversity-1,betweenness0
+621,Rosey,1,1,0.0,0.0,0.00059763,degree-1,peel-2,pagerank1,diversity-1,betweenness0
+711,Torbert,1,1,0.0,0.0,0.000500465,degree-1,peel-2,pagerank1,diversity-1,betweenness0
+718,Torwold Browntooth,1,1,0.0,0.0,0.000526955,degree-1,peel-2,pagerank1,diversity-1,betweenness0
+24,Alys Arryn,2,1,0.693147181,0.002515723,0.000649616,degree-1,peel-2,pagerank1,diversity1,betweenness-1
+90,Brandon Norrey,2,1,0.693147181,0.002515723,0.000597971,degree-1,peel-2,pagerank1,diversity1,betweenness-1
+170,Dick Straw,2,1,0.693147181,0.002515723,0.000645862,degree-1,peel-2,pagerank1,diversity1,betweenness-1
+243,Gerrick Kingsblood,2,1,0.693147181,0.002515723,0.00055369,degree-1,peel-2,pagerank1,diversity1,betweenness-1
+550,Puckens,2,1,0.693147181,0.002515723,0.000590127,degree-1,peel-2,pagerank1,diversity1,betweenness-1
+581,Raynard,2,1,0.693147181,0.002515723,0.000640699,degree-1,peel-2,pagerank1,diversity1,betweenness-1
+585,Rennifer Longwaters,2,1,0.693147181,0.002515723,0.000596489,degree-1,peel-2,pagerank1,diversity1,betweenness-1
+365,Jonquil,1,1,0.0,0.0,0.000683271,degree-1,peel-2,pagerank2,diversity-2,betweenness0
+436,Malaquo Maegyr,1,1,0.0,0.0,0.000660519,degree-1,peel-2,pagerank2,diversity-2,betweenness0
+492,Murch,1,1,0.0,0.0,0.000745047,degree-1,peel-2,pagerank2,diversity-2,betweenness0
+196,Eldon Estermont,2,1,0.693147181,0.002515723,0.000695329,degree-1,peel-2,pagerank2,diversity0,betweenness-1
+215,Florian the Fool,2,1,0.693147181,0.002515723,0.000795762,degree-1,peel-2,pagerank2,diversity0,betweenness-1
+309,Horas Redwyne,2,1,0.693147181,0.002515723,0.000759925,degree-1,peel-2,pagerank2,diversity0,betweenness-1
+416,Lucas Codd,2,1,0.693147181,0.002515723,0.000791631,degree-1,peel-2,pagerank2,diversity0,betweenness-1
+507,Nyessos Vhassar,2,1,0.693147181,0.002515723,0.000789027,degree-1,peel-2,pagerank2,diversity0,betweenness-1
+594,Ricasso,2,1,0.693147181,0.002515723,0.000683305,degree-1,peel-2,pagerank2,diversity0,betweenness-1
+658,Smiling Knight,2,1,0.693147181,0.002515723,0.000724057,degree-1,peel-2,pagerank2,diversity0,betweenness-1
+755,Walgrave,2,1,0.693147181,0.002515723,0.000965371,degree-1,peel-2,pagerank3,diversity0,betweenness0
+144,Cutjack,3,1,0.636514168,0.005028278,0.001103553,degree-1,peel-2,pagerank4,diversity-1,betweenness0
+228,Gariss,2,1,0.693147181,0.002515723,0.001045996,degree-1,peel-2,pagerank4,diversity0,betweenness0
+16,Alerie Hightower,2,2,0.0,0.0,0.000245362,degree-1,peel-1,pagerank-1,diversity-3,betweenness-1
+129,Clubfoot Karl,2,2,0.0,0.0,0.000292428,degree-1,peel-1,pagerank-1,diversity-3,betweenness-1
+134,Colen of Greenpools,2,2,0.0,0.0,0.000281137,degree-1,peel-1,pagerank-1,diversity-3,betweenness-1
+165,Desmond,2,2,0.0,0.0,0.000259839,degree-1,peel-1,pagerank-1,diversity-3,betweenness-1
+171,Dirk,2,2,0.0,0.0,0.000303233,degree-1,peel-1,pagerank-1,diversity-3,betweenness-1
+234,Gawen Westerling,2,2,0.0,2.64e-06,0.000312257,degree-1,peel-1,pagerank-1,diversity-3,betweenness4
+283,Hallyne,2,2,0.0,0.0,0.000262194,degree-1,peel-1,pagerank-1,diversity-3,betweenness-1
+322,Humfrey Hewett,2,2,0.0,0.0,0.000366511,degree-1,peel-1,pagerank-1,diversity-3,betweenness-1
+367,Joramun,2,2,0.0,0.0,0.000300797,degree-1,peel-1,pagerank-1,diversity-3,betweenness-1
+385,Kojja Mo,2,2,0.0,0.0,0.000349181,degree-1,peel-1,pagerank-1,diversity-3,betweenness-1
+521,Oswell Kettleblack,2,2,0.0,0.0,0.000272067,degree-1,peel-1,pagerank-1,diversity-3,betweenness-1
+549,Preston Greenfield,2,2,0.0,0.0,0.000244527,degree-1,peel-1,pagerank-1,diversity-3,betweenness-1
+563,Quellon Greyjoy,2,2,0.0,0.0,0.000366511,degree-1,peel-1,pagerank-1,diversity-3,betweenness-1
+578,Raymun Darry,2,2,0.0,0.0,0.000299085,degree-1,peel-1,pagerank-1,diversity-3,betweenness-1
+606,Robin Ryger,2,2,0.0,0.0,0.000316213,degree-1,peel-1,pagerank-1,diversity-3,betweenness-1
+669,Steffon Baratheon,2,2,0.0,0.0,0.00025158,degree-1,peel-1,pagerank-1,diversity-3,betweenness-1
+747,Vylarr,2,2,0.0,0.0,0.000273664,degree-1,peel-1,pagerank-1,diversity-3,betweenness-1
+750,Walda Frey (daughter of Merrett),2,2,0.0,0.0,0.000279242,degree-1,peel-1,pagerank-1,diversity-3,betweenness-1
+768,Willam Dustin,2,2,0.0,0.0,0.000254327,degree-1,peel-1,pagerank-1,diversity-3,betweenness-1
+779,Wylis Manderly,2,2,0.0,0.0,0.000248762,degree-1,peel-1,pagerank-1,diversity-3,betweenness-1
+19,Allar Deem,2,2,0.693147181,0.0,0.000257008,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+30,Anders Yronwood,2,2,0.693147181,1.66e-05,0.000280168,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+62,Bannen,2,2,0.693147181,0.0,0.00037383,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+71,Ben Bones,2,2,0.693147181,0.0,0.000325274,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+75,Benethon Scales,2,2,0.693147181,0.0,0.000312033,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+80,Big Boil,2,2,0.693147181,0.0,0.000258542,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+93,Brella,2,2,0.693147181,0.0,0.0003005,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+100,Brynden Rivers,2,2,0.693147181,0.0,0.000345825,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+103,Butterbumps,2,2,0.693147181,0.0,0.000288816,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+117,Chayle,2,2,0.693147181,0.0,0.000296296,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+124,Clement Piper,2,2,0.693147181,0.0,0.000329309,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+147,Daemon Sand,2,2,0.693147181,0.0,0.000256672,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+150,Daeron II Targaryen,2,2,0.693147181,0.001246763,0.000257479,degree-1,peel-1,pagerank-1,diversity0,betweenness7
+158,Daryn Hornwood,2,2,0.693147181,0.0,0.000310475,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+161,Denyo Terys,2,2,0.693147181,0.0,0.000380068,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+169,Dick Follard,2,2,0.693147181,0.0,0.000294019,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+182,Drennan,2,2,0.693147181,0.0,0.000379843,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+217,Forley Prester,2,2,0.693147181,0.0,0.000268983,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+221,Frenya,2,2,0.693147181,0.0,0.000381121,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+222,Fulk,2,2,0.693147181,0.0,0.000312726,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+231,Garth (Wolfs Den),2,2,0.693147181,0.0,0.000324762,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+236,Gendel,2,2,0.693147181,0.0,0.000385128,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+245,Ghael,2,2,0.693147181,0.0,0.000386775,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+253,Gorne,2,2,0.693147181,0.0,0.000385128,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+268,Guncer Sunglass,2,2,0.693147181,0.0,0.000274918,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+288,Harra,2,2,0.693147181,0.0,0.000367546,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+296,Hayhead,2,2,0.693147181,0.0,0.000305517,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+299,Heward,2,2,0.693147181,0.0,0.000316455,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+317,Howland Reed,2,2,0.693147181,0.0,0.000245938,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+323,Husband,2,2,0.693147181,0.0,0.000279971,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+356,Jommo,2,2,0.693147181,0.0,0.000329759,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+362,Jon Umber (Smalljon),2,2,0.693147181,0.0,0.000293296,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+363,Jonos Bracken,2,2,0.693147181,0.0,0.00034895,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+369,Joseth,2,2,0.693147181,0.0,0.000254404,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+377,Kedry,2,2,0.693147181,0.0,0.000303343,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+386,Koss,2,2,0.693147181,0.0,0.000279078,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+387,Kraznys mo Nakloz,2,2,0.693147181,0.0,0.000414261,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+397,Leaf,2,2,0.693147181,0.0,0.000286834,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+404,Leona Woolfield,2,2,0.693147181,0.0,0.00029457,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+425,Lyonel Corbray,2,2,0.693147181,0.0,0.000317103,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+434,Mag Mar Tun Doh Weg,2,2,0.693147181,0.0,0.000295555,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+435,Maggy,2,2,0.693147181,0.0,0.000346189,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+445,Mariya Darry,2,2,0.693147181,0.0,0.000305805,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+447,Marlon Manderly,2,2,0.693147181,0.0,0.000291112,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+450,Marselen,2,2,0.693147181,0.0,0.000408268,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+451,Martyn Lannister,2,2,0.693147181,3.11e-05,0.000350362,degree-1,peel-1,pagerank-1,diversity0,betweenness0
+454,Marya Seaworth,2,2,0.693147181,0.0,0.000383786,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+470,Merrett Frey,2,2,0.693147181,8.77e-06,0.000262151,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+473,Mezzara,2,2,0.693147181,0.0,0.000332411,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+488,Morrec,2,2,0.693147181,0.0,0.000397546,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+497,Myles Toyne,2,2,0.693147181,0.0,0.000376496,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+514,Olyvar Frey,2,2,0.693147181,0.0,0.000372516,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+515,Orell,2,2,0.693147181,0.0,0.00029155,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+528,Oznak zo Pahl,2,2,0.693147181,0.0,0.000327679,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+529,Palla,2,2,0.693147181,0.0,0.0002796,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+537,Perwyn Frey,2,2,0.693147181,0.0,0.000324745,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+539,Petyr Frey,2,2,0.693147181,1.06e-06,0.000294765,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+565,Quhuru Mo,2,2,0.693147181,0.0,0.000311279,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+572,Ralf Stonehouse,2,2,0.693147181,0.0,0.00036651,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+583,Reek,2,2,0.693147181,0.0,0.000277816,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+587,Rhaegar Frey,2,2,0.693147181,0.000632098,0.000413198,degree-1,peel-1,pagerank-1,diversity0,betweenness3
+591,Rhaella Targaryen,2,2,0.693147181,0.0,0.00025335,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+595,Richard Horpe,2,2,0.693147181,0.0,0.00037009,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+597,Rickard Stark,2,2,0.693147181,6.48e-06,0.000263685,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+610,Roger Ryswell,2,2,0.693147181,0.0,0.000321248,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+612,Rollam Westerling,2,2,0.693147181,0.0,0.000298771,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+615,Ronnet Connington,2,2,0.693147181,0.0,0.000260535,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+620,Rory,2,2,0.693147181,0.0,0.000326228,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+637,Scar,2,2,0.693147181,0.0,0.00032711,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+641,Senelle,2,2,0.693147181,0.0,0.00029625,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+643,Shadrich,2,2,0.693147181,0.000132657,0.000322764,degree-1,peel-1,pagerank-1,diversity0,betweenness0
+672,Stiv,2,2,0.693147181,0.0,0.000257121,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+678,Sybelle Glover,2,2,0.693147181,1.81e-05,0.00037011,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+686,Talea,2,2,0.693147181,0.0,0.000355607,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+692,Ternesio Terys,2,2,0.693147181,0.0,0.000330469,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+695,Theomore,2,2,0.693147181,0.0,0.000270385,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+716,Torrhen Karstark,3,2,0.636514168,5.23e-05,0.000400213,degree-1,peel-1,pagerank-1,diversity0,betweenness0
+717,Torrhen Stark,2,2,0.693147181,0.0,0.000286139,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+722,Trystane Martell,2,2,0.693147181,6.41e-05,0.000380437,degree-1,peel-1,pagerank-1,diversity0,betweenness0
+735,Urzen,2,2,0.693147181,0.0,0.000353687,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+763,Werlag,2,2,0.693147181,0.0,0.000360739,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+765,Wick Whittlestick,2,2,0.693147181,0.0,0.000298864,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+773,Willow Heddle,2,2,0.693147181,0.0,0.000284493,degree-1,peel-1,pagerank-1,diversity0,betweenness-1
+143,Cromm,2,2,0.0,0.0,0.000526047,degree-1,peel-1,pagerank0,diversity-3,betweenness0
+254,Gorold Goodbrother,2,2,0.0,0.0,0.00052173,degree-1,peel-1,pagerank0,diversity-3,betweenness0
+364,Jonothor Darry,2,2,0.0,0.0,0.000554972,degree-1,peel-1,pagerank0,diversity-3,betweenness0
+463,Meldred Merlyn,2,2,0.0,0.0,0.000445556,degree-1,peel-1,pagerank0,diversity-3,betweenness0
+652,Sigfryd Harlaw,2,2,0.0,0.0,0.000442543,degree-1,peel-1,pagerank0,diversity-3,betweenness0
+27,Amabel,2,2,0.693147181,0.0,0.000431671,degree-1,peel-1,pagerank0,diversity0,betweenness-1
+92,Brea,3,2,0.636514168,1.58e-06,0.00054718,degree-1,peel-1,pagerank0,diversity0,betweenness-1
+98,Brusco,2,2,0.693147181,0.0,0.000482345,degree-1,peel-1,pagerank0,diversity0,betweenness-1
+112,Cedra,2,2,0.693147181,0.0,0.000415537,degree-1,peel-1,pagerank0,diversity0,betweenness-1
+156,Danwell Frey,3,2,0.636514168,0.001046981,0.000511944,degree-1,peel-1,pagerank0,diversity0,betweenness1
+218,Franklyn Flowers,3,2,0.636514168,0.002515723,0.000562059,degree-1,peel-1,pagerank0,diversity0,betweenness4
+270,Guyard Morrigen,2,2,0.693147181,0.0,0.000415617,degree-1,peel-1,pagerank0,diversity0,betweenness-1
+271,Gyles Grafton,2,2,0.693147181,0.0,0.000529945,degree-1,peel-1,pagerank0,diversity0,betweenness-1
+273,Gynir,2,2,0.693147181,8.06e-05,0.000512858,degree-1,peel-1,pagerank0,diversity0,betweenness-1
+370,Josmyn Peckledon,2,2,0.693147181,0.0,0.00047755,degree-1,peel-1,pagerank0,diversity0,betweenness-1
+374,Jyck,2,2,0.693147181,0.0,0.00041563,degree-1,peel-1,pagerank0,diversity0,betweenness-1
+384,Kindly Man,2,2,0.693147181,0.0,0.00057841,degree-1,peel-1,pagerank0,diversity0,betweenness-1
+465,Mellei,2,2,0.693147181,0.0,0.000512378,degree-1,peel-1,pagerank0,diversity0,betweenness-1
+487,Morra,2,2,0.693147181,0.0,0.000512378,degree-1,peel-1,pagerank0,diversity0,betweenness-1
+493,Murenmure,2,2,0.693147181,0.0,0.000513042,degree-1,peel-1,pagerank0,diversity0,betweenness-1
+548,Prendahl na Ghezn,2,2,0.693147181,0.0,0.000518784,degree-1,peel-1,pagerank0,diversity0,betweenness-1
+551,Pyat Pree,2,2,0.693147181,0.0,0.000503741,degree-1,peel-1,pagerank0,diversity0,betweenness-1
+580,Raynald Westerling,3,2,0.636514168,3.21e-05,0.000432595,degree-1,peel-1,pagerank0,diversity0,betweenness-1
+592,Rhaenys Targaryen,2,2,0.693147181,0.0,0.000460117,degree-1,peel-1,pagerank0,diversity0,betweenness-1
+609,Rodrik Sparr,2,2,0.693147181,0.0,0.000467438,degree-1,peel-1,pagerank0,diversity0,betweenness-1
+630,Sallor,2,2,0.693147181,0.0,0.000518784,degree-1,peel-1,pagerank0,diversity0,betweenness-1
+681,Symon Stripeback,2,2,0.693147181,0.0,0.00043394,degree-1,peel-1,pagerank0,diversity0,betweenness-1
+745,Visenya Targaryen,2,2,0.693147181,0.0,0.000424507,degree-1,peel-1,pagerank0,diversity0,betweenness-1
+784,Xhondo,2,2,0.693147181,0.0,0.000515215,degree-1,peel-1,pagerank0,diversity0,betweenness-1
+20,Allard Seaworth,3,2,1.098612289,1.67e-05,0.000495025,degree-1,peel-1,pagerank0,diversity1,betweenness0
+125,Cleon,3,2,1.098612289,1.91e-05,0.000513622,degree-1,peel-1,pagerank0,diversity1,betweenness1
+664,Squint,3,2,1.098612289,7.39e-06,0.000515248,degree-1,peel-1,pagerank0,diversity1,betweenness-1
+674,Stygg,3,2,1.098612289,4.22e-06,0.000497838,degree-1,peel-1,pagerank0,diversity1,betweenness-2
+340,Jared Frey,3,2,0.0,6.07e-06,0.00062169,degree-1,peel-1,pagerank1,diversity-3,betweenness0
+292,Harry Strickland,3,2,0.636514168,5.34e-06,0.000640291,degree-1,peel-1,pagerank1,diversity-1,betweenness-1
+325,Illifer,2,2,0.693147181,0.0,0.000667861,degree-1,peel-1,pagerank1,diversity-1,betweenness-1
+522,Oswell Whent,3,2,0.636514168,0.001200188,0.000680536,degree-1,peel-1,pagerank1,diversity-1,betweenness-1
+582,Red Oarsman,3,2,0.636514168,0.00502511,0.000733144,degree-1,peel-1,pagerank1,diversity-1,betweenness1
+749,Waif,2,2,0.693147181,0.0,0.000617169,degree-1,peel-1,pagerank1,diversity-1,betweenness-1
+31,Andrew Estermont,3,2,1.098612289,0.002515723,0.000589546,degree-1,peel-1,pagerank1,diversity0,betweenness0
+58,Ballabar,3,2,1.098612289,0.002515723,0.000617424,degree-1,peel-1,pagerank1,diversity0,betweenness0
+135,Conn,3,2,1.098612289,0.002515723,0.000695691,degree-1,peel-1,pagerank1,diversity0,betweenness0
+311,Hosteen Frey,4,2,1.039720771,0.000968636,0.000748541,degree-1,peel-1,pagerank1,diversity0,betweenness-2
+462,Melara Hetherspoon,4,2,1.039720771,0.002586857,0.000663734,degree-1,peel-1,pagerank1,diversity0,betweenness0
+475,Miklaz,3,2,1.098612289,0.002515723,0.000655193,degree-1,peel-1,pagerank1,diversity0,betweenness0
+480,Monford Velaryon,3,2,1.098612289,0.002515723,0.00063116,degree-1,peel-1,pagerank1,diversity0,betweenness0
+511,Ogo,3,2,1.098612289,0.002515723,0.00074093,degree-1,peel-1,pagerank1,diversity0,betweenness0
+783,Xaro Xhoan Daxos,3,2,1.098612289,4.48e-05,0.000741878,degree-1,peel-1,pagerank1,diversity0,betweenness-3
+141,Creighton Longbough,3,2,0.636514168,2.56e-05,0.00081125,degree-1,peel-1,pagerank2,diversity-2,betweenness-1
+226,Gared,3,2,0.636514168,0.001020953,0.000930895,degree-1,peel-1,pagerank2,diversity-2,betweenness0
+406,Lewyn Martell,4,2,1.039720771,0.001318426,0.000813275,degree-1,peel-1,pagerank2,diversity0,betweenness-1
+693,Terrance Lynderly,3,2,1.098612289,0.002515723,0.0008394,degree-1,peel-1,pagerank2,diversity0,betweenness0
+770,Willem Lannister,4,2,1.386294361,0.002623001,0.000784547,degree-1,peel-1,pagerank2,diversity1,betweenness0
+767,Will (prologue),2,2,0.0,0.0,0.001008893,degree-1,peel-1,pagerank3,diversity-1,betweenness0
+758,Waymar Royce,3,2,0.636514168,0.001593511,0.001092001,degree-1,peel-1,pagerank3,diversity0,betweenness0
+11,Aggar,4,2,1.039720771,0.007996771,0.001118448,degree-1,peel-1,pagerank4,diversity0,betweenness0
+57,Baelor I Targaryen,3,3,0.0,0.0,0.000316271,degree-1,peel0,pagerank-2,diversity-1,betweenness0
+79,Beth Cassel,3,3,0.0,0.0,0.000317037,degree-1,peel0,pagerank-2,diversity-1,betweenness0
+300,High Septon (fat one),3,3,0.0,0.0,0.000299908,degree-1,peel0,pagerank-2,diversity-1,betweenness0
+207,Eon Hunter,3,3,1.098612289,0.0,0.00029378,degree-1,peel0,pagerank-2,diversity1,betweenness0
+391,Lambert Turnberry,3,3,0.0,1.06e-06,0.000397737,degree-1,peel0,pagerank-1,diversity-4,betweenness0
+14,Albett,3,3,0.636514168,0.0,0.000332455,degree-1,peel0,pagerank-1,diversity-2,betweenness-1
+97,Brus Buckler,3,3,0.636514168,0.0,0.000496241,degree-1,peel0,pagerank-1,diversity-2,betweenness-1
+111,Cayn,3,3,0.636514168,7.38e-06,0.00036926,degree-1,peel0,pagerank-1,diversity-2,betweenness-1
+118,Chella,3,3,0.636514168,0.0,0.000341398,degree-1,peel0,pagerank-1,diversity-2,betweenness-1
+123,Clayton Suggs,3,3,0.636514168,0.0,0.000431088,degree-1,peel0,pagerank-1,diversity-2,betweenness-1
+128,Cley Cerwyn,3,3,0.636514168,0.0,0.000339014,degree-1,peel0,pagerank-1,diversity-2,betweenness-1
+146,Dacey Mormont,3,3,0.636514168,0.0,0.000323102,degree-1,peel0,pagerank-1,diversity-2,betweenness-1
+186,Dunstan Drumm,3,3,0.636514168,7.34e-06,0.000466786,degree-1,peel0,pagerank-1,diversity-2,betweenness-1
+195,Elder Brother,3,3,0.636514168,0.0,0.000392228,degree-1,peel0,pagerank-1,diversity-2,betweenness-1
+203,Emmon Cuy,3,3,0.636514168,1.69e-05,0.000386363,degree-1,peel0,pagerank-1,diversity-2,betweenness-1
+232,Garth Greyfeather,3,3,0.636514168,0.0,0.000462355,degree-1,peel0,pagerank-1,diversity-2,betweenness-1
+238,Genna Lannister,3,3,0.636514168,0.0,0.000371735,degree-1,peel0,pagerank-1,diversity-2,betweenness-1
+267,Grunt,3,3,0.636514168,0.0,0.000481448,degree-1,peel0,pagerank-1,diversity-2,betweenness-1
+277,Hairy Hal,3,3,0.636514168,0.0,0.000451397,degree-1,peel0,pagerank-1,diversity-2,betweenness-1
+291,Harrold Hardyng,3,3,0.636514168,8.45e-06,0.000432205,degree-1,peel0,pagerank-1,diversity-2,betweenness-1
+453,Marwyn,3,3,0.636514168,0.000561925,0.00046376,degree-1,peel0,pagerank-1,diversity-2,betweenness4
+502,Narbert,3,3,0.636514168,0.0,0.000445231,degree-1,peel0,pagerank-1,diversity-2,betweenness-1
+599,Robar Royce,3,3,0.636514168,5.02e-05,0.000368354,degree-1,peel0,pagerank-1,diversity-2,betweenness0
+736,Utherydes Wayn,3,3,0.636514168,0.0,0.000408889,degree-1,peel0,pagerank-1,diversity-2,betweenness-1
+748,Vyman,3,3,0.636514168,5.8e-06,0.000441609,degree-1,peel0,pagerank-1,diversity-2,betweenness-1
+25,Alys Karstark,3,3,1.098612289,0.0,0.00050154,degree-1,peel0,pagerank-1,diversity0,betweenness-1
+28,Amerei Frey,3,3,1.098612289,2.3e-06,0.000412983,degree-1,peel0,pagerank-1,diversity0,betweenness-1
+42,Arron,3,3,1.098612289,0.0,0.000520314,degree-1,peel0,pagerank-1,diversity0,betweenness-1
+59,Balman Byrch,3,3,1.098612289,0.0,0.000466159,degree-1,peel0,pagerank-1,diversity0,betweenness-1
+120,Chiggen,3,3,1.098612289,0.0,0.000362125,degree-1,peel0,pagerank-1,diversity0,betweenness-1
+152,Dalbridge,3,3,1.098612289,0.0,0.000366312,degree-1,peel0,pagerank-1,diversity0,betweenness-1
+159,Daven Lannister,3,3,1.098612289,0.0,0.00039655,degree-1,peel0,pagerank-1,diversity0,betweenness-1
+206,Emrick,3,3,1.098612289,0.0,0.000475367,degree-1,peel0,pagerank-1,diversity0,betweenness-1
+209,Errok,3,3,1.098612289,1.06e-06,0.000457692,degree-1,peel0,pagerank-1,diversity0,betweenness-1
+256,Grazhar,3,3,1.098612289,3.76e-05,0.000439397,degree-1,peel0,pagerank-1,diversity0,betweenness0
+263,Grigg,3,3,1.098612289,1.06e-06,0.000476586,degree-1,peel0,pagerank-1,diversity0,betweenness-1
+290,Harren Hoare,3,3,1.098612289,7.67e-05,0.000409919,degree-1,peel0,pagerank-1,diversity0,betweenness0
+308,Hop Robin,3,3,1.098612289,0.0,0.000386465,degree-1,peel0,pagerank-1,diversity0,betweenness-1
+343,Jarman Buckwell,3,3,1.098612289,0.0,0.000380445,degree-1,peel0,pagerank-1,diversity0,betweenness-1
+344,Jason Mallister,3,3,1.098612289,6.51e-05,0.000365624,degree-1,peel0,pagerank-1,diversity0,betweenness0
+376,Kasporio,3,3,1.098612289,0.0,0.000327866,degree-1,peel0,pagerank-1,diversity0,betweenness-1
+382,Khorane Sathmantes,3,3,1.098612289,0.0,0.000331911,degree-1,peel0,pagerank-1,diversity0,betweenness-1
+392,Lamprey,4,3,1.039720771,1.06e-06,0.000484811,degree-1,peel0,pagerank-1,diversity0,betweenness-1
+403,Leobald Tallhart,3,3,1.098612289,2.05e-05,0.000399025,degree-1,peel0,pagerank-1,diversity0,betweenness-1
+498,Myranda Royce,3,3,1.098612289,2.21e-05,0.000383831,degree-1,peel0,pagerank-1,diversity0,betweenness-1
+517,Osfryd Kettleblack,3,3,1.098612289,0.0,0.000420289,degree-1,peel0,pagerank-1,diversity0,betweenness-1
+534,Patrek of Kings Mountain,4,3,1.039720771,1.06e-06,0.000480282,degree-1,peel0,pagerank-1,diversity0,betweenness-1
+540,Pia,4,3,1.039720771,0.000130851,0.000463067,degree-1,peel0,pagerank-1,diversity0,betweenness0
+544,Porridge,3,3,1.098612289,0.0,0.000402686,degree-1,peel0,pagerank-1,diversity0,betweenness-1
+557,Qavo Nogarys,3,3,1.098612289,2.88e-05,0.000362687,degree-1,peel0,pagerank-1,diversity0,betweenness-1
+605,Robin Flint,3,3,1.098612289,0.0,0.000333527,degree-1,peel0,pagerank-1,diversity0,betweenness-1
+668,Steelskin,3,3,1.098612289,0.0,0.000324408,degree-1,peel0,pagerank-1,diversity0,betweenness-1
+673,Stonesnake,4,3,1.039720771,2.11e-06,0.000514585,degree-1,peel0,pagerank-1,diversity0,betweenness-1
+676,Sweets,3,3,1.098612289,0.0,0.000393154,degree-1,peel0,pagerank-1,diversity0,betweenness-1
+680,Symon Silver Tongue,3,3,1.098612289,0.0,0.000325363,degree-1,peel0,pagerank-1,diversity0,betweenness-1
+712,Toregg,3,3,1.098612289,0.0,0.000423017,degree-1,peel0,pagerank-1,diversity0,betweenness-1
+723,Tybero Istarion,3,3,1.098612289,0.0,0.000428926,degree-1,peel0,pagerank-1,diversity0,betweenness-1
+724,Tycho Nestoris,3,3,1.098612289,0.000534001,0.000460313,degree-1,peel0,pagerank-1,diversity0,betweenness4
+778,Wyl (guard),4,3,1.039720771,0.000269369,0.000418843,degree-1,peel0,pagerank-1,diversity0,betweenness2
+786,Yellow Dick,3,3,1.098612289,0.0,0.000444504,degree-1,peel0,pagerank-1,diversity0,betweenness-1
+15,Alebelly,4,3,1.386294361,7.13e-06,0.000451938,degree-1,peel0,pagerank-1,diversity1,betweenness-1
+297,Helman Tallhart,4,3,1.386294361,0.000136037,0.000439299,degree-1,peel0,pagerank-1,diversity1,betweenness1
+375,Karyl Vance,4,3,1.386294361,2.09e-05,0.000480061,degree-1,peel0,pagerank-1,diversity1,betweenness-1
+423,Lyn Corbray,4,3,1.386294361,2.1e-05,0.000497425,degree-1,peel0,pagerank-1,diversity1,betweenness-1
+653,Sigorn,4,3,1.386294361,5.42e-05,0.000410478,degree-1,peel0,pagerank-1,diversity1,betweenness-1
+728,Tytos Blackwood,5,3,1.33217904,0.000104712,0.000478893,degree-1,peel0,pagerank-1,diversity1,betweenness0
+478,Moelle,3,3,0.636514168,0.0,0.00063156,degree-1,peel0,pagerank0,diversity-2,betweenness0
+556,Qarl the Maid,3,3,0.636514168,0.0,0.000617043,degree-1,peel0,pagerank0,diversity-2,betweenness0
+638,Scolera,3,3,0.636514168,0.0,0.000644208,degree-1,peel0,pagerank0,diversity-2,betweenness0
+752,Walder Frey (son of Jammos),3,3,0.636514168,0.0,0.000554463,degree-1,peel0,pagerank0,diversity-2,betweenness0
+13,Alayaya,4,3,1.039720771,0.002515723,0.000547053,degree-1,peel0,pagerank0,diversity-1,betweenness2
+76,Benfred Tallhart,4,3,1.039720771,0.000366933,0.000599811,degree-1,peel0,pagerank0,diversity-1,betweenness-1
+166,Desmond Grell,4,3,1.039720771,3.2e-06,0.000619345,degree-1,peel0,pagerank0,diversity-1,betweenness-1
+188,Ebben,4,3,1.039720771,1.06e-06,0.000558816,degree-1,peel0,pagerank0,diversity-1,betweenness-1
+213,Falyse Stokeworth,4,3,1.039720771,5.51e-06,0.000584925,degree-1,peel0,pagerank0,diversity-1,betweenness-1
+316,Hotho Harlaw,4,3,1.039720771,0.000591416,0.000735799,degree-1,peel0,pagerank0,diversity-1,betweenness0
+437,Malegorn,4,3,1.039720771,0.000350894,0.00054851,degree-1,peel0,pagerank0,diversity-1,betweenness-1
+777,Wun Weg Wun Dar Wun,4,3,1.039720771,9.66e-06,0.000582738,degree-1,peel0,pagerank0,diversity-1,betweenness-1
+26,Alysane Mormont,3,3,1.098612289,0.0,0.000720381,degree-1,peel0,pagerank0,diversity0,betweenness-1
+332,Jack Bulwer,5,3,1.33217904,0.000153222,0.000566664,degree-1,peel0,pagerank0,diversity0,betweenness-1
+398,Leathers,5,3,1.33217904,2.27e-05,0.000717899,degree-1,peel0,pagerank0,diversity0,betweenness-1
+474,Mikken,5,3,1.33217904,0.000236052,0.00058564,degree-1,peel0,pagerank0,diversity0,betweenness-1
+503,Narbert Grandison,6,3,1.242453325,0.000812272,0.00068425,degree-1,peel0,pagerank0,diversity0,betweenness1
+7,Aenys Frey,4,3,1.386294361,0.000811867,0.000587833,degree-1,peel0,pagerank0,diversity1,betweenness-1
+307,Holly,4,3,1.386294361,8.74e-06,0.000664264,degree-1,peel0,pagerank0,diversity1,betweenness-1
+469,Mero,4,3,1.386294361,0.002515723,0.000646844,degree-1,peel0,pagerank0,diversity1,betweenness1
+505,Nurse,4,3,1.386294361,1.29e-05,0.000536213,degree-1,peel0,pagerank0,diversity1,betweenness-1
+720,Tristifer Botley,3,3,0.636514168,0.0,0.000803304,degree-1,peel0,pagerank1,diversity-2,betweenness0
+264,Grimtongue,4,3,1.039720771,0.001271235,0.000876535,degree-1,peel0,pagerank1,diversity-1,betweenness1
+467,Meribald,5,3,1.054920168,1.66e-05,0.00087892,degree-1,peel0,pagerank1,diversity-1,betweenness-1
+506,Nute,4,3,1.039720771,8.98e-06,0.000926631,degree-1,peel0,pagerank1,diversity-1,betweenness-1
+733,Unella,4,3,1.039720771,3.17e-06,0.000862194,degree-1,peel0,pagerank1,diversity-1,betweenness-1
+99,Bryce Caron,5,3,1.33217904,0.005174682,0.000780848,degree-1,peel0,pagerank1,diversity0,betweenness1
+558,Qezza,5,3,1.33217904,0.000106433,0.000796912,degree-1,peel0,pagerank1,diversity0,betweenness-1
+787,Yezzan zo Qaggaz,5,3,1.33217904,5.81e-06,0.000861203,degree-1,peel0,pagerank1,diversity0,betweenness-1
+274,Hagen,6,3,0.867563228,0.001299751,0.000997847,degree-1,peel0,pagerank2,diversity-2,betweenness0
+608,Rodrik Harlaw,7,3,1.004242473,0.002132001,0.001142976,degree-1,peel0,pagerank2,diversity-1,betweenness0
+46,Arthur Dayne,5,3,1.609437912,0.005297159,0.001060521,degree-1,peel0,pagerank2,diversity0,betweenness1
+373,Justin Massey,5,3,1.33217904,4.8e-05,0.000994606,degree-1,peel0,pagerank2,diversity0,betweenness-1
+764,Wex Pyke,5,3,1.609437912,0.002152951,0.00097706,degree-1,peel0,pagerank2,diversity0,betweenness-1
+738,Varamyr,6,3,1.242453325,0.007537665,0.001419966,degree-1,peel0,pagerank4,diversity0,betweenness0
+301,High Septon (Tyrions),4,4,0.0,0.0,0.000410379,degree-1,peel1,pagerank-2,diversity-2,betweenness0
+67,Bedwyck,5,5,0.500402424,0.0,0.000397118,degree-1,peel1,pagerank-2,diversity-1,betweenness-1
+132,Coldhands,4,4,0.562335145,1.59e-05,0.000373553,degree-1,peel1,pagerank-2,diversity-1,betweenness-1
+647,Sharna,4,4,0.562335145,1.58e-06,0.000380371,degree-1,peel1,pagerank-2,diversity-1,betweenness-1
+666,Stafford Lannister,4,4,0.562335145,4.89e-05,0.000332016,degree-1,peel1,pagerank-2,diversity-1,betweenness1
+1,Aegon Frey (son of Stevron),4,4,1.039720771,0.0,0.000410273,degree-1,peel1,pagerank-2,diversity0,betweenness-1
+525,Ottyn Wythers,4,4,1.039720771,1.79e-05,0.000391081,degree-1,peel1,pagerank-2,diversity0,betweenness0
+543,Pono,4,4,1.039720771,4.84e-05,0.000349678,degree-1,peel1,pagerank-2,diversity0,betweenness1
+775,Woth,5,5,1.33217904,0.0,0.000396638,degree-1,peel1,pagerank-2,diversity0,betweenness-1
+84,Bloodbeard,4,4,1.386294361,0.000112216,0.00039272,degree-1,peel1,pagerank-2,diversity1,betweenness1
+603,Robert Strong,4,4,1.386294361,3.06e-05,0.000344689,degree-1,peel1,pagerank-2,diversity1,betweenness-1
 795,Zollo,4,4,1.386294361,6.34e-07,0.000385717,degree-1,peel1,pagerank-2,diversity1,betweenness-1
+310,Horton Redfort,4,4,0.0,1.85e-06,0.000687368,degree-1,peel1,pagerank-1,diversity-4,betweenness0
+56,Baelor Blacktyde,4,4,0.562335145,0.0,0.000542884,degree-1,peel1,pagerank-1,diversity-2,betweenness-1
+68,Belaquo,4,4,0.693147181,1.28e-05,0.000603305,degree-1,peel1,pagerank-1,diversity-2,betweenness-1
+73,Benedar Belmore,5,4,0.500402424,0.000440168,0.000641825,degree-1,peel1,pagerank-1,diversity-2,betweenness2
+247,Gilwood Hunter,5,4,0.500402424,0.000275404,0.000692599,degree-1,peel1,pagerank-1,diversity-2,betweenness1
+489,Mors Umber,4,4,0.562335145,0.000238248,0.000518088,degree-1,peel1,pagerank-1,diversity-2,betweenness0
+530,Patchface,4,4,0.562335145,0.0,0.000489713,degree-1,peel1,pagerank-1,diversity-2,betweenness-1
+627,Ryk,4,4,0.562335145,0.0,0.000531352,degree-1,peel1,pagerank-1,diversity-2,betweenness-1
+682,Symond Templeton,5,4,0.500402424,3.78e-05,0.000651893,degree-1,peel1,pagerank-1,diversity-2,betweenness-1
+701,Timeon,4,4,0.693147181,2.86e-05,0.000555996,degree-1,peel1,pagerank-1,diversity-2,betweenness-1
+727,Tysha,4,4,0.562335145,1.5e-05,0.000425077,degree-1,peel1,pagerank-1,diversity-2,betweenness-1
+743,Vayon Poole,5,5,0.500402424,0.0,0.000468302,degree-1,peel1,pagerank-1,diversity-2,betweenness-1
+114,Cellador,4,4,1.039720771,1.58e-06,0.000443189,degree-1,peel1,pagerank-1,diversity-1,betweenness-1
+131,Cohollo,4,4,1.039720771,0.0,0.000563735,degree-1,peel1,pagerank-1,diversity-1,betweenness-1
+133,Colemon,6,4,1.011404265,0.000114647,0.000654006,degree-1,peel1,pagerank-1,diversity-1,betweenness2
+151,Dagmer,5,5,1.054920168,0.000143971,0.000608929,degree-1,peel1,pagerank-1,diversity-1,betweenness3
+240,Gerold Dayne,5,5,1.054920168,9.13e-06,0.000672915,degree-1,peel1,pagerank-1,diversity-1,betweenness-1
+260,Gretchel,4,4,1.039720771,1.2e-05,0.000552535,degree-1,peel1,pagerank-1,diversity-1,betweenness-1
+298,Hero,4,4,1.039720771,0.0,0.000484281,degree-1,peel1,pagerank-1,diversity-1,betweenness-1
+315,Hother Umber,4,4,1.039720771,4.3e-05,0.000463209,degree-1,peel1,pagerank-1,diversity-1,betweenness0
+421,Lyanna Stark,5,5,0.950270539,1.15e-05,0.000583469,degree-1,peel1,pagerank-1,diversity-1,betweenness-1
+430,Maddy,5,4,0.950270539,3.67e-05,0.000684088,degree-1,peel1,pagerank-1,diversity-1,betweenness0
+431,Maege Mormont,5,4,1.054920168,4.01e-06,0.000540965,degree-1,peel1,pagerank-1,diversity-1,betweenness-1
+553,Pyg,4,4,1.039720771,2.85e-06,0.000579416,degree-1,peel1,pagerank-1,diversity-1,betweenness-1
+562,Quaro,5,5,0.950270539,1.43e-06,0.000445212,degree-1,peel1,pagerank-1,diversity-1,betweenness-1
+622,Roslin Frey,5,5,1.054920168,0.0,0.000672614,degree-1,peel1,pagerank-1,diversity-1,betweenness-1
+662,Spare Boot,6,5,1.011404265,1.27e-06,0.000527414,degree-1,peel1,pagerank-1,diversity-1,betweenness-1
+683,Syrio Forel,4,4,1.039720771,9.94e-06,0.00063575,degree-1,peel1,pagerank-1,diversity-1,betweenness-1
+702,Timett,4,4,1.039720771,4.1e-06,0.000534884,degree-1,peel1,pagerank-1,diversity-1,betweenness-1
+706,Todder,4,4,1.039720771,0.0,0.000634487,degree-1,peel1,pagerank-1,diversity-1,betweenness-1
+759,Weasel,4,4,1.039720771,5.39e-06,0.000500168,degree-1,peel1,pagerank-1,diversity-1,betweenness-1
+760,Weeper,5,5,0.950270539,6.34e-06,0.000490304,degree-1,peel1,pagerank-1,diversity-1,betweenness-1
+23,Alyn,5,5,1.33217904,2.3e-05,0.000538663,degree-1,peel1,pagerank-1,diversity0,betweenness-1
+74,Benerro,4,4,1.386294361,3.71e-05,0.000431198,degree-1,peel1,pagerank-1,diversity0,betweenness-1
+106,Caleotte,4,4,1.386294361,7.3e-05,0.000534515,degree-1,peel1,pagerank-1,diversity0,betweenness-1
+127,Cletus Yronwood,5,4,1.33217904,0.000787012,0.000626553,degree-1,peel1,pagerank-1,diversity0,betweenness0
+193,Edwyn Frey,4,4,1.386294361,1.04e-06,0.000544132,degree-1,peel1,pagerank-1,diversity0,betweenness-1
+266,Groleo,6,5,1.242453325,3.57e-05,0.000603235,degree-1,peel1,pagerank-1,diversity0,betweenness-1
+337,Jalabhar Xho,5,4,1.33217904,0.00080684,0.000481371,degree-1,peel1,pagerank-1,diversity0,betweenness0
+378,Kegs,7,5,1.351783994,9.87e-06,0.000584785,degree-1,peel1,pagerank-1,diversity0,betweenness-1
+415,Lothor Brune,5,4,1.33217904,4.54e-05,0.000544936,degree-1,peel1,pagerank-1,diversity0,betweenness-1
+422,Lyle Crakehall,5,4,1.33217904,9.04e-06,0.000497301,degree-1,peel1,pagerank-1,diversity0,betweenness-1
+432,Maegor I Targaryen,6,5,1.242453325,0.00253038,0.000582325,degree-1,peel1,pagerank-1,diversity0,betweenness2
+481,Moon Boy,4,4,1.386294361,9.3e-06,0.000526634,degree-1,peel1,pagerank-1,diversity0,betweenness-1
+575,Rast,6,5,1.242453325,2.33e-05,0.000516994,degree-1,peel1,pagerank-1,diversity0,betweenness-1
+665,Squirrel,4,4,1.386294361,9.19e-06,0.000486326,degree-1,peel1,pagerank-1,diversity0,betweenness-1
+671,Stevron Frey,5,4,1.33217904,2.64e-06,0.000435193,degree-1,peel1,pagerank-1,diversity0,betweenness-1
+677,Sybell Spicer,6,4,1.329661349,0.002361903,0.000603267,degree-1,peel1,pagerank-1,diversity0,betweenness2
+687,Tallad,6,4,1.242453325,0.000844655,0.000546731,degree-1,peel1,pagerank-1,diversity0,betweenness0
+709,Tomard,7,5,1.153741943,0.000146291,0.000682677,degree-1,peel1,pagerank-1,diversity0,betweenness-1
+754,Walder Rivers,5,4,1.33217904,6.15e-05,0.000539948,degree-1,peel1,pagerank-1,diversity0,betweenness-1
+85,Blue Bard,5,4,1.609437912,0.000908267,0.000534842,degree-1,peel1,pagerank-1,diversity1,betweenness1
+175,Donella Hornwood,7,4,1.549826046,0.000224091,0.000635385,degree-1,peel1,pagerank-1,diversity1,betweenness-1
+179,Dorcas,6,5,1.791759469,5.21e-06,0.00061026,degree-1,peel1,pagerank-1,diversity1,betweenness-1
+202,Emmett,5,4,1.609437912,2.22e-05,0.000643053,degree-1,peel1,pagerank-1,diversity1,betweenness-1
+249,Godry Farring,7,5,1.549826046,0.001010475,0.000636765,degree-1,peel1,pagerank-1,diversity1,betweenness1
+353,Jocelyn Swyft,5,5,1.609437912,1.83e-06,0.000505047,degree-1,peel1,pagerank-1,diversity1,betweenness-1
+604,Robett Glover,7,5,1.549826046,0.000500339,0.000580181,degree-1,peel1,pagerank-1,diversity1,betweenness0
+624,Rowan,5,4,1.609437912,5.76e-05,0.000628659,degree-1,peel1,pagerank-1,diversity1,betweenness-1
+739,Vardis Egen,6,4,1.560710409,0.000178986,0.000642911,degree-1,peel1,pagerank-1,diversity1,betweenness-1
+772,Willis Wode,6,5,1.560710409,4.27e-05,0.000511857,degree-1,peel1,pagerank-1,diversity1,betweenness-1
+479,Mollander,4,4,0.0,3.96e-06,0.000934248,degree-1,peel1,pagerank0,diversity-3,betweenness1
+495,Mycah,5,5,0.0,0.0,0.000805042,degree-1,peel1,pagerank0,diversity-3,betweenness-1
+616,Roone,4,4,0.0,7.92e-07,0.000920016,degree-1,peel1,pagerank0,diversity-3,betweenness-1
+35,Archibald Yronwood,4,4,0.562335145,2.38e-06,0.000918824,degree-1,peel1,pagerank0,diversity-2,betweenness-1
+250,Goghor the Giant,4,4,0.562335145,1.06e-06,0.000718528,degree-1,peel1,pagerank0,diversity-2,betweenness-1
+657,Small Paul,6,5,0.636514168,1.19e-05,0.000776101,degree-1,peel1,pagerank0,diversity-2,betweenness1
+32,Andrey Dalt,5,5,0.950270539,4.1e-05,0.000832746,degree-1,peel1,pagerank0,diversity-1,betweenness-1
+81,Biter,5,5,1.054920168,9.44e-05,0.000782857,degree-1,peel1,pagerank0,diversity-1,betweenness-1
+105,Caggo,5,4,0.950270539,0.002515723,0.00083633,degree-1,peel1,pagerank0,diversity-1,betweenness1
+168,Dick Crabb,5,4,0.950270539,0.002557403,0.00081538,degree-1,peel1,pagerank0,diversity-1,betweenness1
+198,Elinor Tyrell,5,4,0.950270539,3.16e-05,0.000807866,degree-1,peel1,pagerank0,diversity-1,betweenness-1
+461,Megga Tyrell,4,4,1.039720771,0.0,0.000842091,degree-1,peel1,pagerank0,diversity-1,betweenness-1
+476,Mirri Maz Duur,6,5,1.011404265,9.63e-06,0.000987082,degree-1,peel1,pagerank0,diversity-1,betweenness-1
+508,Nymeria Sand,4,4,1.039720771,1.81e-05,0.000856141,degree-1,peel1,pagerank0,diversity-1,betweenness-1
+646,Shagwell,6,4,1.011404265,0.000199782,0.000772709,degree-1,peel1,pagerank0,diversity-1,betweenness-1
+679,Sylva Santagar,5,5,0.950270539,4.1e-05,0.000756735,degree-1,peel1,pagerank0,diversity-1,betweenness-1
+18,Alla Tyrell,5,4,1.33217904,1.18e-05,0.000754206,degree-1,peel1,pagerank0,diversity0,betweenness-1
+63,Barbrey Dustin,6,5,1.329661349,0.000182731,0.000787446,degree-1,peel1,pagerank0,diversity0,betweenness-1
+119,Chett,7,5,1.277034259,9.59e-05,0.000911682,degree-1,peel1,pagerank0,diversity0,betweenness-1
+154,Damon Dance for Me,5,4,1.33217904,9.35e-06,0.000774889,degree-1,peel1,pagerank0,diversity0,betweenness-1
+157,Dareon,6,5,1.242453325,0.003075872,0.000930619,degree-1,peel1,pagerank0,diversity0,betweenness1
+192,Edric Storm,6,5,1.329661349,0.001610784,0.000897121,degree-1,peel1,pagerank0,diversity0,betweenness0
+275,Haggo,6,5,1.329661349,3.12e-06,0.000777584,degree-1,peel1,pagerank0,diversity0,betweenness-1
+282,Hallis Mollen,6,5,1.329661349,0.000118024,0.000736982,degree-1,peel1,pagerank0,diversity0,betweenness-1
+339,Jaqen Hghar,6,5,1.329661349,2.81e-05,0.000982349,degree-1,peel1,pagerank0,diversity0,betweenness-1
+349,Jeyne Westerling,5,4,1.33217904,0.001015193,0.000823548,degree-1,peel1,pagerank0,diversity0,betweenness0
+383,Khrazz,5,4,1.33217904,0.000747583,0.000713687,degree-1,peel1,pagerank0,diversity0,betweenness-1
+395,Lark,6,5,1.329661349,0.002588977,0.000761442,degree-1,peel1,pagerank0,diversity0,betweenness1
+494,Mya Stone,5,4,1.33217904,0.000108766,0.000739087,degree-1,peel1,pagerank0,diversity0,betweenness-1
+586,Reznak mo Reznak,5,5,1.33217904,0.0,0.000782543,degree-1,peel1,pagerank0,diversity0,betweenness-1
+656,Skinner,5,4,1.33217904,0.002515723,0.000887165,degree-1,peel1,pagerank0,diversity0,betweenness1
+661,Sour Alyn,6,4,1.329661349,1.41e-05,0.000979725,degree-1,peel1,pagerank0,diversity0,betweenness-1
+663,Spotted Cat,6,4,1.242453325,0.003356216,0.000919978,degree-1,peel1,pagerank0,diversity0,betweenness1
+756,Walton,5,4,1.33217904,0.002515723,0.000735855,degree-1,peel1,pagerank0,diversity0,betweenness1
+40,Arnolf Karstark,5,4,1.609437912,0.002619954,0.000704456,degree-1,peel1,pagerank0,diversity1,betweenness0
+167,Devan Seaworth,6,5,1.560710409,0.000328126,0.000829714,degree-1,peel1,pagerank0,diversity1,betweenness-1
+223,Galazza Galare,6,5,1.560710409,7.68e-05,0.00095014,degree-1,peel1,pagerank0,diversity1,betweenness-2
+341,Jaremy Rykker,5,4,1.609437912,0.002518575,0.000713031,degree-1,peel1,pagerank0,diversity1,betweenness0
+762,Wendel Manderly,7,4,1.747868097,0.002579961,0.000814957,degree-1,peel1,pagerank0,diversity1,betweenness0
+39,Armen,6,4,0.450561209,1.69e-05,0.001056421,degree-1,peel1,pagerank1,diversity-2,betweenness-1
+402,Leo Tyrell,5,4,0.500402424,0.005207007,0.001036994,degree-1,peel1,pagerank1,diversity-2,betweenness0
+34,Anya Waynwood,7,4,0.79631164,0.000583944,0.001147792,degree-1,peel1,pagerank1,diversity-1,betweenness0
+554,Pylos,6,5,1.011404265,3.91e-06,0.001241409,degree-1,peel1,pagerank1,diversity-1,betweenness-1
+468,Meris,6,4,1.242453325,0.003065646,0.001177615,degree-1,peel1,pagerank1,diversity0,betweenness1
+536,Penny,7,4,1.475076311,0.000279064,0.001225714,degree-1,peel1,pagerank1,diversity0,betweenness-1
+560,Qotho,7,5,1.277034259,2.97e-05,0.001078742,degree-1,peel1,pagerank1,diversity0,betweenness-1
+482,Moqorro,5,4,1.609437912,0.002409717,0.001073681,degree-1,peel1,pagerank1,diversity1,betweenness0
+629,Salladhor Saan,5,4,1.609437912,9.54e-06,0.001188731,degree-1,peel1,pagerank1,diversity1,betweenness-1
+509,Obara Sand,6,4,1.329661349,2.49e-05,0.001299752,degree-1,peel1,pagerank2,diversity-2,betweenness0
+409,Lommy Greenhands,6,5,1.560710409,1.11e-05,0.001369274,degree-1,peel1,pagerank2,diversity0,betweenness-1
+645,Shagga,7,4,1.549826046,0.005057665,0.001493422,degree-1,peel1,pagerank2,diversity0,betweenness0
+531,Pate (novice),7,4,0.682908105,0.010041506,0.002498661,degree-1,peel1,pagerank6,diversity0,betweenness0
+199,Ellaria Sand,6,6,1.329661349,0.000988794,0.000464905,degree-1,peel2,pagerank-2,diversity-1,betweenness0
+321,Hullen,6,6,1.242453325,4.65e-05,0.000404489,degree-1,peel2,pagerank-2,diversity-1,betweenness-1
+689,Tansy,6,6,1.560710409,0.000190475,0.000467736,degree-1,peel2,pagerank-2,diversity1,betweenness0
+792,Ysilla,6,6,0.867563228,0.0,0.000725298,degree-1,peel2,pagerank-1,diversity-2,betweenness0
+138,Cortnay Penrose,7,6,1.153741943,0.00066034,0.000699725,degree-1,peel2,pagerank-1,diversity-1,betweenness0
+17,Alester Florent,7,6,1.351783994,0.000362833,0.000742177,degree-1,peel2,pagerank-1,diversity0,betweenness-1
+257,Greenbeard,7,6,1.277034259,5.72e-06,0.00072922,degree-1,peel2,pagerank-1,diversity0,betweenness-1
+535,Paxter Redwyne,6,6,1.329661349,0.000772814,0.000604391,degree-1,peel2,pagerank-1,diversity0,betweenness1
+688,Tanda Stokeworth,7,6,1.475076311,2.31e-05,0.000707311,degree-1,peel2,pagerank-1,diversity1,betweenness0
+180,Doreah,6,6,0.450561209,2.07e-06,0.000790894,degree-1,peel2,pagerank0,diversity-2,betweenness0
+229,Garlan Tyrell,7,6,0.79631164,0.002519168,0.000765968,degree-1,peel2,pagerank0,diversity-1,betweenness0
+400,Lemore,7,6,0.955699891,2.04e-06,0.000825797,degree-1,peel2,pagerank0,diversity-1,betweenness-1
+153,Dalla,6,6,1.242453325,3.51e-05,0.000753343,degree-1,peel2,pagerank0,diversity0,betweenness-1
+324,Hyle Hunt,7,6,1.153741943,0.000285899,0.000925346,degree-1,peel2,pagerank0,diversity0,betweenness1
+504,Nestor Royce,7,6,1.475076311,7.73e-05,0.000805248,degree-1,peel2,pagerank0,diversity0,betweenness-1
+408,Lollys Stokeworth,7,6,1.549826046,1.17e-05,0.000771718,degree-1,peel2,pagerank0,diversity1,betweenness0
+785,Yandry,7,6,0.955699891,2.04e-06,0.000967965,degree-1,peel2,pagerank1,diversity0,betweenness0
+130,Clydas,7,6,1.475076311,0.00022216,0.001215514,degree-1,peel2,pagerank2,diversity0,betweenness0
+126,Cleos Frey,7,7,0.0,1.95e-05,0.001092543,degree-1,peel3,pagerank0,diversity0,betweenness0
+413,Lorren,8,3,1.255482325,0.003753628,0.00145556,degree0,peel-3,pagerank0,diversity0,betweenness0
+691,Tattered Prince,8,4,1.073542846,0.005877204,0.001280541,degree0,peel-2,pagerank-1,diversity-3,betweenness0
+2,Aegon I Targaryen,9,5,1.464816385,0.006891002,0.001100074,degree0,peel-2,pagerank-1,diversity-1,betweenness1
+227,Garin (orphan),9,5,1.427061043,0.000798417,0.001327989,degree0,peel-2,pagerank-1,diversity-1,betweenness-1
+279,Halder,8,5,1.386294361,4.41e-05,0.000931331,degree0,peel-2,pagerank-1,diversity-1,betweenness-1
+204,Emmon Frey,8,5,1.559581156,0.000464205,0.000830611,degree0,peel-2,pagerank-1,diversity0,betweenness-1
+242,Gerold Hightower,8,5,1.494175138,0.008395747,0.001095867,degree0,peel-2,pagerank-1,diversity0,betweenness1
+285,Hareth (Moles Town),11,5,1.641734712,0.002203437,0.001266545,degree0,peel-2,pagerank-1,diversity0,betweenness-1
+619,Rorge,9,5,1.522955068,0.000417866,0.001253026,degree0,peel-2,pagerank-1,diversity0,betweenness-1
+789,Yohn Royce,8,4,1.494175138,0.001976174,0.000829984,degree0,peel-2,pagerank-1,diversity0,betweenness-1
+698,Thoren Smallwood,9,5,1.676987774,0.002560759,0.001151752,degree0,peel-2,pagerank-1,diversity1,betweenness-1
+725,Tyene Sand,9,5,1.676987774,0.00267653,0.001293676,degree0,peel-2,pagerank-1,diversity1,betweenness0
+21,Alleras,8,4,0.900256051,0.014199147,0.001749233,degree0,peel-2,pagerank0,diversity-1,betweenness0
+244,Gerris Drinkwater,9,4,1.303092404,0.00265698,0.001808226,degree0,peel-2,pagerank0,diversity0,betweenness0
+8,Aeron Greyjoy,15,5,1.748970751,0.012935047,0.004498805,degree0,peel-2,pagerank2,diversity-1,betweenness0
+210,Euron Greyjoy,13,5,1.804371619,0.008004883,0.004461793,degree0,peel-2,pagerank2,diversity0,betweenness0
+449,Marq Piper,8,7,1.073542846,0.000177945,0.000573616,degree0,peel-1,pagerank-2,diversity-2,betweenness0
+769,Willas Tyrell,8,7,1.213007566,1.65e-05,0.000547806,degree0,peel-1,pagerank-2,diversity-1,betweenness0
+224,Galbart Glover,8,6,1.320888343,0.000946307,0.000672682,degree0,peel-1,pagerank-2,diversity0,betweenness0
+761,Weese,8,6,1.255482325,0.000107469,0.000723267,degree0,peel-1,pagerank-2,diversity0,betweenness-1
+287,Harma,8,6,1.386294361,3.91e-05,0.000718848,degree0,peel-1,pagerank-2,diversity1,betweenness0
+177,Dontos Hollard,9,7,0.848685558,0.000468306,0.001197805,degree0,peel-1,pagerank-1,diversity-3,betweenness0
+187,Dywen,8,6,1.073542846,0.000552933,0.000861158,degree0,peel-1,pagerank-1,diversity-2,betweenness1
+342,Jarl,8,6,1.073542846,2.07e-05,0.001029757,degree0,peel-1,pagerank-1,diversity-2,betweenness-1
+675,Styr,8,6,1.073542846,2.12e-05,0.001405197,degree0,peel-1,pagerank-1,diversity-2,betweenness-1
+44,Arstan,8,6,1.213007566,0.000123935,0.001309324,degree0,peel-1,pagerank-1,diversity-1,betweenness-1
+91,Brandon Stark,8,6,1.213007566,0.000462025,0.000811601,degree0,peel-1,pagerank-1,diversity-1,betweenness-1
+142,Cressen,9,7,1.464816385,0.000352511,0.001279163,degree0,peel-1,pagerank-1,diversity-1,betweenness-1
+174,Donal Noye,8,6,1.386294361,0.000240414,0.001235143,degree0,peel-1,pagerank-1,diversity-1,betweenness-1
+197,Elia Martell,9,7,1.303092404,0.002700036,0.00093676,degree0,peel-1,pagerank-1,diversity-1,betweenness1
+456,Mathis Rowan,8,6,1.494175138,0.002588277,0.00078388,degree0,peel-1,pagerank-1,diversity-1,betweenness1
+526,Owen,10,6,1.470808476,0.000804616,0.000895542,degree0,peel-1,pagerank-1,diversity-1,betweenness-1
+613,Rolly Duckfield,8,6,1.213007566,1.35e-05,0.001381021,degree0,peel-1,pagerank-1,diversity-1,betweenness-1
+740,Vargo Hoat,10,6,1.33217904,0.000684034,0.001091866,degree0,peel-1,pagerank-1,diversity-1,betweenness-1
+753,Walder Frey (son of Merrett),8,6,1.320888343,0.000137213,0.00093115,degree0,peel-1,pagerank-1,diversity-1,betweenness-1
+33,Anguy,9,6,1.735126457,0.001262506,0.001294206,degree0,peel-1,pagerank-1,diversity0,betweenness0
+49,Arys Oakheart,9,6,1.522955068,0.001771183,0.001188945,degree0,peel-1,pagerank-1,diversity0,betweenness1
+72,Ben Plumm,9,6,1.676987774,0.001076548,0.001036099,degree0,peel-1,pagerank-1,diversity0,betweenness0
+293,Harwin,11,7,1.798652206,0.000358115,0.001040526,degree0,peel-1,pagerank-1,diversity0,betweenness-1
+313,Hoster Tully,10,7,1.609437912,0.000347545,0.001219369,degree0,peel-1,pagerank-1,diversity0,betweenness-1
+490,Mully,9,6,1.522955068,3.74e-05,0.00086889,degree0,peel-1,pagerank-1,diversity0,betweenness-2
+501,Nan,8,6,1.732867951,0.000714461,0.001172386,degree0,peel-1,pagerank-1,diversity0,betweenness-1
+628,Ryman Frey,12,6,1.704551445,0.001020753,0.001127589,degree0,peel-1,pagerank-1,diversity0,betweenness0
+708,Tom of Sevenstreams,9,6,1.58109375,0.000428688,0.001254658,degree0,peel-1,pagerank-1,diversity0,betweenness-1
+302,High Sparrow,8,6,1.906154747,3.77e-05,0.000984155,degree0,peel-1,pagerank-1,diversity1,betweenness-1
+414,Lothar Frey,11,7,1.893788232,0.000277633,0.000873458,degree0,peel-1,pagerank-1,diversity1,betweenness-1
+520,Osney Kettleblack,11,7,2.019814992,0.000488439,0.001026739,degree0,peel-1,pagerank-1,diversity1,betweenness-1
+574,Randyll Tarly,13,7,2.031759219,0.004472798,0.001229287,degree0,peel-1,pagerank-1,diversity1,betweenness1
+648,Shireen Baratheon,13,7,1.884871334,0.003259286,0.001234029,degree0,peel-1,pagerank-1,diversity1,betweenness0
+576,Rattleshirt,11,6,1.294545166,8.27e-05,0.001746136,degree0,peel-1,pagerank0,diversity-2,betweenness0
+37,Areo Hotah,9,6,1.522955068,0.000130391,0.001863187,degree0,peel-1,pagerank0,diversity-1,betweenness-2
+644,Shae,13,7,1.524707393,0.000826092,0.001752541,degree0,peel-1,pagerank0,diversity-1,betweenness0
+699,Thoros of Myr,9,7,1.58109375,0.000502707,0.001517948,degree0,peel-1,pagerank0,diversity-1,betweenness-1
+737,Val,9,6,1.522955068,0.000812097,0.001651056,degree0,peel-1,pagerank0,diversity-1,betweenness0
+280,Haldon,11,6,1.641734712,0.000285338,0.001811175,degree0,peel-1,pagerank0,diversity0,betweenness-1
+541,Podrick Payne,11,6,1.666332585,0.003390512,0.002239123,degree0,peel-1,pagerank0,diversity0,betweenness0
+3,Aegon Targaryen (son of Rhaegar),15,7,1.801892401,0.006012167,0.002093592,degree0,peel-1,pagerank0,diversity1,betweenness1
+53,Axell Florent,10,6,1.83437197,0.001703351,0.001524473,degree0,peel-1,pagerank0,diversity1,betweenness-1
+635,Satin,13,6,1.844621476,0.00294103,0.001724603,degree0,peel-1,pagerank0,diversity1,betweenness-1
+60,Balon Greyjoy,13,7,1.118968867,0.009545732,0.002957548,degree0,peel-1,pagerank1,diversity-3,betweenness0
+559,Qhorin Halfhand,14,6,1.673118363,0.002814466,0.00237447,degree0,peel-1,pagerank1,diversity-1,betweenness0
+358,Jon Connington,16,7,1.78680834,0.012689827,0.002603882,degree0,peel-1,pagerank1,diversity0,betweenness1
+399,Lem,15,7,1.859428815,0.005932663,0.002317313,degree0,peel-1,pagerank1,diversity0,betweenness-1
+715,Tormund,15,6,1.767009191,0.005149821,0.00271543,degree0,peel-1,pagerank1,diversity0,betweenness-1
+788,Ygritte,13,6,1.73265872,0.002655179,0.002400135,degree0,peel-1,pagerank1,diversity0,betweenness-1
+314,Hot Pie,11,6,2.019814992,0.003040202,0.002656905,degree0,peel-1,pagerank1,diversity1,betweenness0
+640,Selyse Florent,19,7,1.909660422,0.005670667,0.003097164,degree0,peel-1,pagerank2,diversity0,betweenness0
+564,Quentyn Martell,19,7,1.721954449,0.011349668,0.00437337,degree0,peel-1,pagerank3,diversity0,betweenness0
+163,Denys Mallister,9,8,0.683738906,1.26e-05,0.000858632,degree0,peel0,pagerank-2,diversity-2,betweenness-2
+261,Grey Worm,8,8,0.73562194,3.26e-05,0.00087105,degree0,peel0,pagerank-2,diversity-2,betweenness0
+440,Mandon Moore,9,9,0.683738906,2.31e-05,0.000725772,degree0,peel0,pagerank-2,diversity-2,betweenness0
+200,Elmar Frey,9,9,0.848685558,0.000105404,0.000677919,degree0,peel0,pagerank-2,diversity-1,betweenness-1
+513,Olenna Redwyne,9,8,0.848685558,0.000292522,0.000756117,degree0,peel0,pagerank-2,diversity-1,betweenness0
+295,Harys Swyft,9,8,1.214889654,8.29e-05,0.000625421,degree0,peel0,pagerank-2,diversity0,betweenness-1
+304,Hobb,11,8,1.120950393,8.7e-05,0.000773659,degree0,peel0,pagerank-2,diversity0,betweenness1
+516,Orton Merryweather,10,8,1.279854226,8.14e-05,0.000620349,degree0,peel0,pagerank-2,diversity0,betweenness-1
+52,Aurane Waters,9,8,1.522955068,7.82e-05,0.000577919,degree0,peel0,pagerank-2,diversity1,betweenness0
+330,Jacelyn Bywater,9,9,1.427061043,1.52e-05,0.000706275,degree0,peel0,pagerank-2,diversity1,betweenness-2
+444,Marillion,9,8,1.427061043,8.37e-05,0.000853962,degree0,peel0,pagerank-2,diversity1,betweenness0
+12,Aggo,10,8,0.940447989,0.000100433,0.001520208,degree0,peel0,pagerank-1,diversity-2,betweenness-1
+139,Cotter Pyke,10,8,0.940447989,0.000259524,0.000973969,degree0,peel0,pagerank-1,diversity-2,betweenness1
+570,Rakharo,10,8,0.801818553,3.22e-05,0.001214878,degree0,peel0,pagerank-1,diversity-2,betweenness-1
+477,Missandei,9,8,1.002718265,9.63e-05,0.001586885,degree0,peel0,pagerank-1,diversity-1,betweenness0
+523,Othell Yarwyck,11,8,1.159588814,7.31e-05,0.001165994,degree0,peel0,pagerank-1,diversity-1,betweenness-1
+77,Benjen Stark,14,9,1.593424237,0.005675488,0.001597077,degree0,peel0,pagerank-1,diversity0,betweenness1
+348,Jeyne Poole,13,9,1.778233306,0.001726905,0.001625258,degree0,peel0,pagerank-1,diversity0,betweenness-1
+518,Osha,9,8,1.522955068,0.0002196,0.001322379,degree0,peel0,pagerank-1,diversity0,betweenness-1
+596,Rickard Karstark,12,8,1.676234939,0.000916443,0.001254606,degree0,peel0,pagerank-1,diversity0,betweenness-1
+684,Taena of Myr,12,8,1.676234939,0.000492062,0.001215846,degree0,peel0,pagerank-1,diversity0,betweenness-1
+361,Jon Umber (Greatjon),14,8,1.932806573,0.001360964,0.001593452,degree0,peel0,pagerank-1,diversity1,betweenness-1
+790,Yoren,18,8,1.875121856,0.00484853,0.001645924,degree0,peel0,pagerank-1,diversity1,betweenness0
+350,Jhiqui,12,8,0.721463687,7.18e-05,0.002276592,degree0,peel0,pagerank0,diversity-2,betweenness0
+351,Jhogo,12,8,1.234267866,0.000165397,0.001771561,degree0,peel0,pagerank0,diversity-1,betweenness-1
+393,Lancel Lannister,12,9,1.234267866,0.000520242,0.001715529,degree0,peel0,pagerank0,diversity-1,betweenness1
+655,Skahaz mo Kandaq,12,8,1.075139324,5.94e-05,0.001829313,degree0,peel0,pagerank0,diversity-1,betweenness-1
+22,Alliser Thorne,15,8,1.487816716,0.002217858,0.001928278,degree0,peel0,pagerank0,diversity0,betweenness1
+70,Belwas,13,8,1.410513557,0.000281012,0.002070866,degree0,peel0,pagerank0,diversity0,betweenness-2
+88,Bowen Marsh,18,8,1.428055769,0.001065829,0.002438314,degree0,peel0,pagerank0,diversity0,betweenness-1
+326,Illyrio Mopatis,12,8,1.424129917,0.001202512,0.001720713,degree0,peel0,pagerank0,diversity0,betweenness0
+746,Viserys Targaryen,14,8,1.809514256,0.002457249,0.002157296,degree0,peel0,pagerank0,diversity1,betweenness-1
+781,Wyman Manderly,17,8,1.905420043,0.009242797,0.002203488,degree0,peel0,pagerank0,diversity1,betweenness0
+329,Irri,15,8,0.720124881,0.000992876,0.002759077,degree0,peel0,pagerank1,diversity-2,betweenness0
+246,Gilly,14,8,1.351783994,0.00112531,0.002697651,degree0,peel0,pagerank1,diversity-1,betweenness1
+259,Grenn,15,8,1.337860678,0.000474681,0.003203872,degree0,peel0,pagerank1,diversity-1,betweenness-1
+355,Jojen Reed,10,8,1.088899975,0.000271599,0.00263205,degree0,peel0,pagerank1,diversity-1,betweenness-1
+555,Pypar,16,8,1.244016696,0.000234447,0.002813027,degree0,peel0,pagerank1,diversity-1,betweenness-1
+140,Craster,15,8,1.522699926,0.003894223,0.002708792,degree0,peel0,pagerank1,diversity0,betweenness0
+145,Daario Naharis,19,8,1.48322096,0.005468229,0.002784419,degree0,peel0,pagerank1,diversity0,betweenness0
+460,Meera Reed,11,8,1.414279065,0.000301138,0.002933076,degree0,peel0,pagerank1,diversity0,betweenness-2
+588,Rhaegar Targaryen,18,9,2.0330002,0.007841725,0.002563142,degree0,peel0,pagerank1,diversity1,betweenness0
+306,Hodor,11,8,1.641734712,0.000213484,0.003778806,degree0,peel0,pagerank2,diversity0,betweenness0
+0,Addam Marbrand,12,10,1.198849313,0.000469682,0.000813212,degree0,peel1,pagerank-2,diversity-1,betweenness0
+61,Balon Swann,16,11,1.541976433,0.003599005,0.001195924,degree0,peel1,pagerank-2,diversity0,betweenness0
+484,Mordane,11,10,1.033562054,0.000477052,0.001621421,degree0,peel1,pagerank-1,diversity-2,betweenness0
+87,Boros Blount,14,11,1.536722469,0.000227913,0.001547904,degree0,peel1,pagerank-1,diversity-1,betweenness0
+272,Gyles Rosby,18,10,1.923068868,0.000415441,0.001277748,degree0,peel1,pagerank-1,diversity0,betweenness-1
+567,Qyburn,18,10,1.719477814,0.001700923,0.001629493,degree0,peel1,pagerank-1,diversity0,betweenness0
+78,Beric Dondarrion,18,10,1.351039416,0.002139778,0.002079181,degree0,peel1,pagerank0,diversity-2,betweenness0
+381,Kevan Lannister,17,11,1.506883349,0.001893308,0.002255223,degree0,peel1,pagerank0,diversity-1,betweenness0
+101,Brynden Tully,19,10,1.986266518,0.002227036,0.002297805,degree0,peel1,pagerank0,diversity0,betweenness-1
+519,Osmund Kettleblack,18,11,1.873510521,0.000670672,0.002282676,degree0,peel1,pagerank0,diversity0,betweenness-1
+751,Walder Frey,19,10,1.986266518,0.006634157,0.002404955,degree0,peel1,pagerank0,diversity0,betweenness1
+10,Aerys II Targaryen,19,10,1.70407034,0.014068789,0.002867744,degree0,peel1,pagerank1,diversity0,betweenness0
+598,Rickon Stark,17,10,1.466907105,0.001981032,0.003680916,degree0,peel1,pagerank2,diversity0,betweenness0
+121,Chiswyck,13,12,0.898137003,4.28e-05,0.000715803,degree0,peel2,pagerank-2,diversity0,betweenness0
+700,Tickler,12,12,0.679193266,0.0,0.001448483,degree0,peel2,pagerank-1,diversity-2,betweenness0
+185,Dunsen,13,12,0.898137003,4.28e-05,0.001547673,degree0,peel2,pagerank-1,diversity0,betweenness-1
+542,Polliver,14,12,0.89820534,8.96e-05,0.001543562,degree0,peel2,pagerank-1,diversity0,betweenness0
+568,Rafford,13,12,0.690185676,4.65e-05,0.00171038,degree0,peel2,pagerank0,diversity0,betweenness0
+357,Jon Arryn,17,12,1.203332041,0.008811733,0.002508965,degree0,peel2,pagerank1,diversity0,betweenness0
+50,Asha Greyjoy,25,5,1.809598882,0.033024754,0.005649906,degree1,peel-3,pagerank-1,diversity0,betweenness0
+744,Victarion Greyjoy,24,5,1.856036234,0.036450737,0.006672877,degree1,peel-3,pagerank0,diversity0,betweenness0
+38,Arianne Martell,20,6,2.029682547,0.017878371,0.003815659,degree1,peel-2,pagerank0,diversity0,betweenness0
+190,Eddison Tollett,20,8,1.33999644,0.003126949,0.002152904,degree1,peel-1,pagerank-2,diversity-1,betweenness0
+601,Robert Arryn,20,8,1.877524281,0.011219033,0.002562505,degree1,peel-1,pagerank-2,diversity0,betweenness0
+237,Gendry,20,8,2.029682547,0.012466572,0.003370625,degree1,peel-1,pagerank-1,diversity-1,betweenness0
+178,Doran Martell,21,9,2.045576462,0.014536796,0.002944615,degree1,peel-1,pagerank-1,diversity0,betweenness0
+366,Jorah Mormont,26,8,1.655707776,0.010826778,0.004940556,degree1,peel-1,pagerank0,diversity-2,betweenness0
+6,Aemon Targaryen (Maester Aemon),26,8,1.751052605,0.019000091,0.005212806,degree1,peel-1,pagerank0,diversity-1,betweenness0
+183,Drogo,21,8,1.706770659,0.012390513,0.004373204,degree1,peel-1,pagerank0,diversity-1,betweenness-1
+303,Hizdahr zo Loraq,22,8,1.857200791,0.005928327,0.004349047,degree1,peel-1,pagerank0,diversity0,betweenness-1
+573,Ramsay Snow,23,9,2.002058727,0.016712732,0.004330747,degree1,peel-1,pagerank0,diversity0,betweenness0
+464,Melisandre,23,8,2.088091943,0.006490368,0.004323498,degree1,peel-1,pagerank0,diversity1,betweenness0
+345,Jeor Mormont,28,8,1.925892175,0.017268244,0.006136861,degree1,peel-1,pagerank1,diversity0,betweenness0
+29,Amory Lorch,20,12,1.344257669,0.001181454,0.00122693,degree1,peel0,pagerank-2,diversity-1,betweenness0
+368,Jory Cassel,21,12,1.68185408,0.0048781,0.002033503,degree1,peel0,pagerank-2,diversity0,betweenness0
+327,Ilyn Payne,22,12,1.116485597,0.0008953,0.002676977,degree1,peel0,pagerank-1,diversity-1,betweenness-1
+338,Janos Slynt,23,11,1.274586732,0.007182702,0.002285066,degree1,peel0,pagerank-1,diversity-1,betweenness1
+472,Meryn Trant,21,12,1.153741943,0.00094058,0.002872904,degree1,peel0,pagerank-1,diversity-1,betweenness-1
+428,Mace Tyrell,23,12,1.893275591,0.005881332,0.002386206,degree1,peel0,pagerank-1,diversity1,betweenness-1
+510,Oberyn Martell,20,10,1.941927724,0.009803338,0.002351696,degree1,peel0,pagerank-1,diversity1,betweenness0
+426,Lysa Arryn,24,12,1.710642901,0.006064574,0.003950672,degree1,peel0,pagerank0,diversity-2,betweenness0
+499,Myrcella Baratheon,22,11,1.790313567,0.020192887,0.003252601,degree1,peel0,pagerank0,diversity-1,betweenness0
+96,Bronn,25,10,2.033458636,0.00290005,0.003617359,degree1,peel0,pagerank0,diversity0,betweenness-1
+191,Edmure Tully,24,10,2.0252303,0.003460566,0.003702267,degree1,peel0,pagerank0,diversity0,betweenness-1
+607,Rodrik Cassel,30,12,2.051787046,0.011062043,0.00339896,degree1,peel0,pagerank0,diversity0,betweenness1
+617,Roose Bolton,28,12,1.98950834,0.005556184,0.003105126,degree1,peel0,pagerank0,diversity0,betweenness-1
+419,Luwin,22,10,1.957615479,0.003151405,0.004179481,degree1,peel0,pagerank1,diversity-1,betweenness0
+442,Margaery Tyrell,30,12,1.995750869,0.004545928,0.004678732,degree1,peel0,pagerank1,diversity0,betweenness0
+411,Loras Tyrell,28,13,1.558057246,0.001442737,0.003420664,degree1,peel1,pagerank-1,diversity0,betweenness0
+552,Pycelle,27,13,1.591968682,0.007406401,0.003931511,degree1,peel1,pagerank0,diversity0,betweenness0
+439,Mance Rayder,33,8,1.931601912,0.013605084,0.00514145,degree2,peel-2,pagerank-1,diversity-1,betweenness0
+160,Davos Seaworth,33,7,2.120173779,0.023846811,0.007860805,degree2,peel-2,pagerank-1,diversity0,betweenness0
+631,Samwell Tarly,44,8,1.958122578,0.041466204,0.011871965,degree2,peel-2,pagerank1,diversity0,betweenness0
+258,Gregor Clegane,33,13,1.662755842,0.005485884,0.004225564,degree2,peel0,pagerank-2,diversity0,betweenness0
+632,Sandor Clegane,36,13,1.849112878,0.008828141,0.005438164,degree2,peel0,pagerank-1,diversity-1,betweenness0
+710,Tommen Baratheon,33,12,1.946915338,0.006251297,0.005535565,degree2,peel0,pagerank-1,diversity0,betweenness0
+742,Varys,34,13,1.876820905,0.009201379,0.006229212,degree2,peel0,pagerank0,diversity-1,betweenness0
+64,Barristan Selmy,41,12,2.153082,0.045549578,0.006072068,degree2,peel0,pagerank0,diversity0,betweenness0
+584,Renly Baratheon,38,13,1.877240061,0.018923484,0.007433869,degree2,peel0,pagerank1,diversity-1,betweenness0
+95,Brienne of Tarth,45,13,2.208504507,0.032251919,0.007360664,degree2,peel0,pagerank1,diversity0,betweenness0
+89,Bran Stark,54,12,2.160724355,0.044911179,0.016699569,degree3,peel-2,pagerank0,diversity0,betweenness0
+729,Tywin Lannister,48,13,2.026165337,0.020669858,0.007644692,degree3,peel0,pagerank-1,diversity0,betweenness0
+538,Petyr Baelish,47,13,1.984776869,0.025898583,0.008391054,degree3,peel0,pagerank0,diversity0,betweenness0
+696,Theon Greyjoy,66,12,2.307204332,0.111283318,0.013877295,degree4,peel-2,pagerank0,diversity0,betweenness0
+602,Robert Baratheon,65,13,2.104875124,0.078227691,0.015677734,degree4,peel0,pagerank-1,diversity0,betweenness0
+354,Joffrey Baratheon,69,13,2.108929177,0.031758722,0.017420084,degree4,peel0,pagerank0,diversity0,betweenness0
+148,Daenerys Targaryen,73,9,2.181770082,0.118418019,0.022306882,degree5,peel-2,pagerank0,diversity0,betweenness0
+110,Catelyn Stark,75,13,2.317345932,0.054973668,0.015210744,degree5,peel0,pagerank-2,diversity0,betweenness0
+633,Sansa Stark,75,13,2.323459966,0.048690982,0.016291184,degree5,peel0,pagerank-1,diversity0,betweenness0
+600,Robb Stark,74,13,2.380112478,0.066468427,0.017344651,degree5,peel0,pagerank0,diversity0,betweenness0
+189,Eddard Stark,74,13,2.290519575,0.078732393,0.01893822,degree5,peel0,pagerank1,diversity0,betweenness0
+667,Stannis Baratheon,89,13,2.399455178,0.110139553,0.018051671,degree6,peel0,pagerank-1,diversity0,betweenness0
+48,Arya Stark,84,13,2.332991632,0.087242361,0.018538945,degree6,peel0,pagerank0,diversity0,betweenness0
+336,Jaime Lannister,101,13,2.398059966,0.100838006,0.01975355,degree7,peel0,pagerank-1,diversity0,betweenness0
+115,Cersei Lannister,97,13,2.401216936,0.088704267,0.023607039,degree7,peel0,pagerank0,diversity0,betweenness0
+360,Jon Snow,114,12,2.277964323,0.19211962,0.035693765,degree8,peel0,pagerank0,diversity0,betweenness0
+726,Tyrion Lannister,122,13,2.466368473,0.162191096,0.03284906,degree9,peel0,pagerank0,diversity0,betweenness0
